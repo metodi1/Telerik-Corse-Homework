@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\14.1FreeExchengeBits\bin\Debug\14.1FreeExchengeBits.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\14.1FreeExchengeBits\bin\Debug\14.1FreeExchengeBits.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\14.1FreeExchengeBits\bin\Debug\14.1FreeExchengeBits.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\14.1FreeExchengeBits\obj\Debug\14.1FreeExchengeBits.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\14.1FreeExchengeBits\obj\Debug\14.1FreeExchengeBits.pdb

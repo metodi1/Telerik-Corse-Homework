@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\bin\Debug\12.WriteTheValueInThePosition.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\bin\Debug\12.WriteTheValueInThePosition.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\bin\Debug\12.WriteTheValueInThePosition.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\obj\Debug\12.WriteTheValueInThePosition.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\obj\Debug\12.WriteTheValueInThePosition.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\12.WriteTheValueInThePosition\obj\Debug\12.WriteTheValueInThePosition.pdb
