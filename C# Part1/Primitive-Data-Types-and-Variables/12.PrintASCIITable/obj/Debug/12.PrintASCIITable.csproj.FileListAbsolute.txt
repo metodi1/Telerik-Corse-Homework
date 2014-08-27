@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\bin\Debug\12.PrintASCIITable.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\12.PrintASCIITable\obj\Debug\12.PrintASCIITable.pdb

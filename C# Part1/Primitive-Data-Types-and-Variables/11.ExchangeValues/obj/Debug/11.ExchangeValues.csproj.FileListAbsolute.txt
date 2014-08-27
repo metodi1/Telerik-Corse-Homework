@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\bin\Debug\11.ExchangeValues.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\bin\Debug\11.ExchangeValues.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\bin\Debug\11.ExchangeValues.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\obj\Debug\11.ExchangeValues.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\obj\Debug\11.ExchangeValues.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\11.ExchangeValues\obj\Debug\11.ExchangeValues.pdb
