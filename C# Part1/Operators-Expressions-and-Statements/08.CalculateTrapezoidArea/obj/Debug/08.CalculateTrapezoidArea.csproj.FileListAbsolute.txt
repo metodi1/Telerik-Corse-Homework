@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\bin\Debug\08.CalculateTrapezoidArea.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\bin\Debug\08.CalculateTrapezoidArea.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\bin\Debug\08.CalculateTrapezoidArea.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\obj\Debug\08.CalculateTrapezoidArea.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\obj\Debug\08.CalculateTrapezoidArea.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\08.CalculateTrapezoidArea\obj\Debug\08.CalculateTrapezoidArea.pdb
