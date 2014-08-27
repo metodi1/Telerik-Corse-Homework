@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\07.AssignObjectWithString\bin\Debug\07.AssignObjectWithString.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\07.AssignObjectWithString\bin\Debug\07.AssignObjectWithString.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\07.AssignObjectWithString\bin\Debug\07.AssignObjectWithString.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\07.AssignObjectWithString\obj\Debug\07.AssignObjectWithString.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\07.AssignObjectWithString\obj\Debug\07.AssignObjectWithString.pdb

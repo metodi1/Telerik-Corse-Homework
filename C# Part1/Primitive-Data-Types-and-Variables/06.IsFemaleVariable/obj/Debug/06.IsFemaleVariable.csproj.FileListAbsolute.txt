@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\bin\Debug\06.IsFemaleVariable.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\bin\Debug\06.IsFemaleVariable.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\bin\Debug\06.IsFemaleVariable.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\obj\Debug\06.IsFemaleVariable.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\obj\Debug\06.IsFemaleVariable.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\06.IsFemaleVariable\obj\Debug\06.IsFemaleVariable.pdb

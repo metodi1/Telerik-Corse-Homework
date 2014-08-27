@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\08.QuotedStrings\bin\Debug\08.QuotedStrings.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\08.QuotedStrings\bin\Debug\08.QuotedStrings.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\08.QuotedStrings\obj\Debug\08.QuotedStrings.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\08.QuotedStrings\obj\Debug\08.QuotedStrings.pdb
