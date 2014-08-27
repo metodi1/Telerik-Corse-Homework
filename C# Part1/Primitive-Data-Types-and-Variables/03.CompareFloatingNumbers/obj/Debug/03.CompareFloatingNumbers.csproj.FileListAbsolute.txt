@@ -1,0 +1,8 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\bin\Debug\03.CompareFloatingNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\03.CompareFloatingNumbers\obj\Debug\03.CompareFloatingNumbers.pdb
