@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\bin\Debug\04.CheckThirdDigits.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\bin\Debug\04.CheckThirdDigits.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\bin\Debug\04.CheckThirdDigits.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\obj\Debug\04.CheckThirdDigits.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\obj\Debug\04.CheckThirdDigits.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\obj\Debug\04.CheckThirdDigits.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\bin\Debug\04.CheckThirdDigits.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\obj\Debug\04.CheckThirdDigits.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\04.CheckThirdDigits\obj\Debug\04.CheckThirdDigits.pdb

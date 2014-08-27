@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\bin\Debug\_05.FindingIfTheBit3.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\bin\Debug\_05.FindingIfTheBit3.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\bin\Debug\_05.FindingIfTheBit3.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\obj\Debug\05. FindingIfTheBit3.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\obj\Debug\_05.FindingIfTheBit3.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\obj\Debug\_05.FindingIfTheBit3.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\bin\Debug\_05.FindingIfTheBit3.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\obj\Debug\_05.FindingIfTheBit3.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\05. FindingIfTheBit3\obj\Debug\_05.FindingIfTheBit3.pdb
