@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\11.ValueOfBitAtPosition\bin\Debug\11.ValueOfBitAtPosition.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\11.ValueOfBitAtPosition\bin\Debug\11.ValueOfBitAtPosition.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\11.ValueOfBitAtPosition\bin\Debug\11.ValueOfBitAtPosition.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\11.ValueOfBitAtPosition\obj\Debug\11.ValueOfBitAtPosition.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\11.ValueOfBitAtPosition\obj\Debug\11.ValueOfBitAtPosition.pdb
