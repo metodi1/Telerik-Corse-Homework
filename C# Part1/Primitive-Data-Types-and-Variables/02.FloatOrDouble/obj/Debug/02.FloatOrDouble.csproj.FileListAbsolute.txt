@@ -1,0 +1,11 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache
