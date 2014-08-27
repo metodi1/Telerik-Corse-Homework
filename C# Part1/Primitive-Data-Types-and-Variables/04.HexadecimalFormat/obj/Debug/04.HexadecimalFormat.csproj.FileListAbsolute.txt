@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\bin\Debug\04.HexadecimalFormat.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\04.HexadecimalFormat\obj\Debug\04.HexadecimalFormat.pdb

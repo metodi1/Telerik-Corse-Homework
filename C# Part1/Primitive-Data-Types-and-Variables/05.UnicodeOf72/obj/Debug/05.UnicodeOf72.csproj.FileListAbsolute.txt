@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\bin\Debug\05.UnicodeOf72.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\obj\Debug\05.UnicodeOf72.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\bin\Debug\05.UnicodeOf72.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\bin\Debug\05.UnicodeOf72.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\obj\Debug\05.UnicodeOf72.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\obj\Debug\05.UnicodeOf72.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\bin\Debug\05.UnicodeOf72.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\obj\Debug\05.UnicodeOf72.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Primitive-Data-Types-and-Variables\05.UnicodeOf72\obj\Debug\05.UnicodeOf72.pdb
