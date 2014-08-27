@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\bin\Debug\10,MarketingFirmRecords.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\bin\Debug\10,MarketingFirmRecords.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\bin\Debug\10,MarketingFirmRecords.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\obj\Debug\10.MarketingFirmRecords.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\obj\Debug\10,MarketingFirmRecords.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\obj\Debug\10,MarketingFirmRecords.pdb

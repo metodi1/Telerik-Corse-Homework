@@ -1,0 +1,1 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Primitive-Data-Types-and-Variables\10,MarketingFirmRecords\bin\Debug\10,MarketingFirmRecords.exe.config
