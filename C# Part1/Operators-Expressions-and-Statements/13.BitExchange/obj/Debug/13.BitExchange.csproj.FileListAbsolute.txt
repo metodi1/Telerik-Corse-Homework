@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\bin\Debug\13.BitExchange.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\bin\Debug\13.BitExchange.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\bin\Debug\13.BitExchange.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\obj\Debug\13.BitExchange.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\obj\Debug\13.BitExchange.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\13.BitExchange\obj\Debug\13.BitExchange.pdb
