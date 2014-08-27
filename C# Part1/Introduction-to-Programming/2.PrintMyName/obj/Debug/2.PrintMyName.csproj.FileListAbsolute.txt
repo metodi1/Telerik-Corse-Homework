@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\2.PrintMyName\bin\Debug\2.PrintMyName.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\2.PrintMyName\bin\Debug\2.PrintMyName.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\2.PrintMyName\bin\Debug\2.PrintMyName.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\2.PrintMyName\obj\Debug\2.PrintMyName.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\2.PrintMyName\obj\Debug\2.PrintMyName.pdb

@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\bin\Debug\31.Hexadecimal to Decimal Number-P15.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\bin\Debug\31.Hexadecimal to Decimal Number-P15.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\bin\Debug\31.Hexadecimal to Decimal Number-P15.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\obj\Debug\31.Hexadecimal to Decimal Number-P15.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\obj\Debug\31.Hexadecimal to Decimal Number-P15.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\31.Hexadecimal to Decimal Number-P15\obj\Debug\31.Hexadecimal to Decimal Number-P15.pdb

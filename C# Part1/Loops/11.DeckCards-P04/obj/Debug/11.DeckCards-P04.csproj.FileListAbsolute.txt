@@ -1,0 +1,6 @@
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\bin\Debug\11.DeckCards-P04.exe.config
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\bin\Debug\11.DeckCards-P04.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\bin\Debug\11.DeckCards-P04.pdb
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\obj\Debug\11.DeckCards-P04.csprojResolveAssemblyReference.cache
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\obj\Debug\11.DeckCards-P04.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\11.DeckCards-P04\obj\Debug\11.DeckCards-P04.pdb

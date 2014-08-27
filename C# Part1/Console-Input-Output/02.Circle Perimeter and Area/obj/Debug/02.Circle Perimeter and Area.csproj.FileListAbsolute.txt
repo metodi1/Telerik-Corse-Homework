@@ -1,0 +1,1 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\02.Circle Perimeter and Area\bin\Debug\02.Circle Perimeter and Area.exe.config

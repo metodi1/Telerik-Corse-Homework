@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\02.NumbersNotDivisibleBy3and7\bin\Debug\02.NumbersNotDivisibleBy3and7.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\02.NumbersNotDivisibleBy3and7\bin\Debug\02.NumbersNotDivisibleBy3and7.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\02.NumbersNotDivisibleBy3and7\bin\Debug\02.NumbersNotDivisibleBy3and7.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\02.NumbersNotDivisibleBy3and7\obj\Debug\02.NumbersNotDivisibleBy3and7.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\02.NumbersNotDivisibleBy3and7\obj\Debug\02.NumbersNotDivisibleBy3and7.pdb

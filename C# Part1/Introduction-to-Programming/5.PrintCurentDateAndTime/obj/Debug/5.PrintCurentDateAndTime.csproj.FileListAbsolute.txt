@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\5.PrintCurentDateAndTime\bin\Debug\5.PrintCurentDateAndTime.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\5.PrintCurentDateAndTime\bin\Debug\5.PrintCurentDateAndTime.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\5.PrintCurentDateAndTime\bin\Debug\5.PrintCurentDateAndTime.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\5.PrintCurentDateAndTime\obj\Debug\5.PrintCurentDateAndTime.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\5.PrintCurentDateAndTime\obj\Debug\5.PrintCurentDateAndTime.pdb

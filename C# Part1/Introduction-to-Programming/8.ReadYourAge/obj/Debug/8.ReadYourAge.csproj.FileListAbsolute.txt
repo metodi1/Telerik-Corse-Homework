@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\8.ReadYourAge\bin\Debug\8.ReadYourAge.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\8.ReadYourAge\bin\Debug\8.ReadYourAge.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\8.ReadYourAge\bin\Debug\8.ReadYourAge.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\8.ReadYourAge\obj\Debug\8.ReadYourAge.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\8.ReadYourAge\obj\Debug\8.ReadYourAge.pdb

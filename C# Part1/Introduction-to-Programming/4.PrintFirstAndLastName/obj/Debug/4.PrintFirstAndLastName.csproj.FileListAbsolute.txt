@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\4.PrintFirstAndLastName\obj\Debug\4.PrintFirstAndLastName.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\4.PrintFirstAndLastName\obj\Debug\4.PrintFirstAndLastName.pdb

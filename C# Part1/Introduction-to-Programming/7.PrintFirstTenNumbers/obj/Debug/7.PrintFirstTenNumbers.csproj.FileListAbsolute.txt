@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\7.PrintFirstTenNumbers\bin\Debug\7.PrintFirstTenNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\7.PrintFirstTenNumbers\bin\Debug\7.PrintFirstTenNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\7.PrintFirstTenNumbers\bin\Debug\7.PrintFirstTenNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\7.PrintFirstTenNumbers\obj\Debug\7.PrintFirstTenNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\7.PrintFirstTenNumbers\obj\Debug\7.PrintFirstTenNumbers.pdb

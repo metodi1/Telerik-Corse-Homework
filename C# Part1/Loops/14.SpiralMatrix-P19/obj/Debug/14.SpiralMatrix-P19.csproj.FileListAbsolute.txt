@@ -1,0 +1,9 @@
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\bin\Debug\14.SpiralMatrix-P19.exe.config
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\bin\Debug\14.SpiralMatrix-P19.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\bin\Debug\14.SpiralMatrix-P19.pdb
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\obj\Debug\14.SpiralMatrix-P19.csprojResolveAssemblyReference.cache
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\obj\Debug\14.SpiralMatrix-P19.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\obj\Debug\14.SpiralMatrix-P19.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\bin\Debug\14.SpiralMatrix-P19.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\obj\Debug\14.SpiralMatrix-P19.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\14.SpiralMatrix-P19\obj\Debug\14.SpiralMatrix-P19.pdb

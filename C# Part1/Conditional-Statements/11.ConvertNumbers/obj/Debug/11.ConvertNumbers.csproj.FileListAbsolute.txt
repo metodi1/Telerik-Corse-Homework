@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\bin\Debug\11.ConvertNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\bin\Debug\11.ConvertNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\bin\Debug\11.ConvertNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\obj\Debug\11.ConvertNumbers.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\obj\Debug\11.ConvertNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\11.ConvertNumbers\obj\Debug\11.ConvertNumbers.pdb

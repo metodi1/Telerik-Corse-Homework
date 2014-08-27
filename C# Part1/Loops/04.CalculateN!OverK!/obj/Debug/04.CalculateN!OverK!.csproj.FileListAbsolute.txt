@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\bin\Debug\04.CalculateN!OverK!.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\obj\Debug\04.CalculateN!OverK!.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\bin\Debug\04.CalculateN!OverK!.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\bin\Debug\04.CalculateN!OverK!.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\obj\Debug\04.CalculateN!OverK!.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\04.CalculateN!OverK!\obj\Debug\04.CalculateN!OverK!.pdb

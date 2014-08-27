@@ -1,0 +1,8 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Conditional-Statements\02.ShowsTheSign\bin\Debug\02.ShowsTheSign.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Conditional-Statements\02.ShowsTheSign\bin\Debug\02.ShowsTheSign.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Conditional-Statements\02.ShowsTheSign\bin\Debug\02.ShowsTheSign.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Conditional-Statements\02.ShowsTheSign\obj\Debug\02.ShowsTheSign.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Conditional-Statements\02.ShowsTheSign\obj\Debug\02.ShowsTheSign.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\02.ShowsTheSign\bin\Debug\02.ShowsTheSign.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\02.ShowsTheSign\obj\Debug\02.ShowsTheSign.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\02.ShowsTheSign\obj\Debug\02.ShowsTheSign.pdb

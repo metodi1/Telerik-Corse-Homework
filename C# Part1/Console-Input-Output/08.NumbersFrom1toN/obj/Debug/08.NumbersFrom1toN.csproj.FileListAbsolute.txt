@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Console-Input-Output\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

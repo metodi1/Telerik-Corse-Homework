@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\bin\Debug\1.PrintHelloCSharp.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\bin\Debug\1.PrintHelloCSharp.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\bin\Debug\1.PrintHelloCSharp.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\obj\Debug\1.PrintHelloCSharp.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\obj\Debug\1.PrintHelloCSharp.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\1.PrintHelloCSharp\obj\Debug\1.PrintHelloCSharp.pdb

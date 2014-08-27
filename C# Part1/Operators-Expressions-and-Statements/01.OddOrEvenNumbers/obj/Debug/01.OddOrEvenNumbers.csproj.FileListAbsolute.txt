@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\bin\Debug\01.OddOrEvenNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\bin\Debug\01.OddOrEvenNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\bin\Debug\01.OddOrEvenNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\obj\Debug\01.OddOrEvenNumbers.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\obj\Debug\01.OddOrEvenNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\obj\Debug\01.OddOrEvenNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\bin\Debug\01.OddOrEvenNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\obj\Debug\01.OddOrEvenNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\01.OddOrEvenNumbers\obj\Debug\01.OddOrEvenNumbers.pdb

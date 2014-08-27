@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\bin\Debug\06.SumaNfacturelNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\bin\Debug\06.SumaNfacturelNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\bin\Debug\06.SumaNfacturelNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\obj\Debug\06.SumaNfacturelNumbers.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\obj\Debug\06.SumaNfacturelNumbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\06.SumaNfacturelNumbers\obj\Debug\06.SumaNfacturelNumbers.pdb

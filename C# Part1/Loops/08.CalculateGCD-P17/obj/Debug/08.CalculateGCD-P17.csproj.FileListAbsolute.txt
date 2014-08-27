@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\bin\Debug\08.CalculateGCD-P17.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\bin\Debug\08.CalculateGCD-P17.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\bin\Debug\08.CalculateGCD-P17.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\obj\Debug\08.CalculateGCD-P17.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\obj\Debug\08.CalculateGCD-P17.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\08.CalculateGCD-P17\obj\Debug\08.CalculateGCD-P17.pdb

@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\bin\Debug\6.PrintTheSqrtNumbers.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\bin\Debug\6.PrintTheSqrtNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\bin\Debug\6.PrintTheSqrtNumbers.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\obj\Debug\6.PrintTheSqrtNumbers.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\obj\Debug\6.PrintTheSqrtNumbers.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Introduction-to-Programming\6.PrintTheSqrtNumbers\obj\Debug\6.PrintTheSqrtNumbers.pdb

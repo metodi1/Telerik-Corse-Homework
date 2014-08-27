@@ -1,0 +1,9 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\bin\Debug\P04.BollsAndCows.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\bin\Debug\P04.BollsAndCows.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\bin\Debug\P04.BollsAndCows.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\obj\Debug\P04.BollsAndCows.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\obj\Debug\P04.BollsAndCows.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\obj\Debug\P04.BollsAndCows.pdb
+D:\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\bin\Debug\P04.BollsAndCows.exe.config
+D:\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\obj\Debug\P04.BollsAndCows.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\P04.BollsAndCows\obj\Debug\P04.BollsAndCows.pdb

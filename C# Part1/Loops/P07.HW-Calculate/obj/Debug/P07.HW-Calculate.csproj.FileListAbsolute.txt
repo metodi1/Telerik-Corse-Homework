@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\bin\Debug\P07.HW-Calculate.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\bin\Debug\P07.HW-Calculate.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\bin\Debug\P07.HW-Calculate.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\obj\Debug\P07.HW-Calculate.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\obj\Debug\P07.HW-Calculate.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P07.HW-Calculate\obj\Debug\P07.HW-Calculate.csprojResolveAssemblyReference.cache

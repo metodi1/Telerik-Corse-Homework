@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\bin\Debug\30.BinaryToDecimalNumber-P13.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\bin\Debug\30.BinaryToDecimalNumber-P13.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\bin\Debug\30.BinaryToDecimalNumber-P13.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\obj\Debug\30.BinaryToDecimalNumber-P13.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\obj\Debug\30.BinaryToDecimalNumber-P13.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\30.BinaryToDecimalNumber-P13\obj\Debug\30.BinaryToDecimalNumber-P13.pdb

@@ -1,0 +1,9 @@
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\bin\Debug\13.TrailingZeros-P18.exe.config
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\bin\Debug\13.TrailingZeros-P18.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\bin\Debug\13.TrailingZeros-P18.pdb
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\obj\Debug\13.TrailingZeros-P18.csprojResolveAssemblyReference.cache
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\obj\Debug\13.TrailingZeros-P18.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\obj\Debug\13.TrailingZeros-P18.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\bin\Debug\13.TrailingZeros-P18.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\obj\Debug\13.TrailingZeros-P18.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\13.TrailingZeros-P18\obj\Debug\13.TrailingZeros-P18.pdb

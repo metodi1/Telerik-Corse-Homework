@@ -1,0 +1,5 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\03.Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min-Max-Sum-and-Average-of-N-Numbers.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\03.Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\03.Min-Max-Sum-and-Average-of-N-Numbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\03.Min-Max-Sum-and-Average-of-N-Numbers\obj\Debug\03.Min-Max-Sum-and-Average-of-N-Numbers.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\03.Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min-Max-Sum-and-Average-of-N-Numbers.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\03.Min-Max-Sum-and-Average-of-N-Numbers\bin\Debug\03.Min-Max-Sum-and-Average-of-N-Numbers.pdb

@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\bin\Debug\P01.CoordinateSystem.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\bin\Debug\P01.CoordinateSystem.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\bin\Debug\P01.CoordinateSystem.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\obj\Debug\P01.CoordinateSystem.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\obj\Debug\P01.CoordinateSystem.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\P01.CoordinateSystem\obj\Debug\P01.CoordinateSystem.pdb

@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\bin\Debug\09.ZeroSubset.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\bin\Debug\09.ZeroSubset.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\bin\Debug\09.ZeroSubset.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\obj\Debug\09.ZeroSubset.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\obj\Debug\09.ZeroSubset.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\09.ZeroSubset\obj\Debug\09.ZeroSubset.pdb

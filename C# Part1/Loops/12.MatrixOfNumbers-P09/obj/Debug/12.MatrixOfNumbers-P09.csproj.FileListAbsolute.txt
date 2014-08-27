@@ -1,0 +1,6 @@
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\bin\Debug\12.MatrixOfNumbers-P09.exe.config
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\bin\Debug\12.MatrixOfNumbers-P09.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\bin\Debug\12.MatrixOfNumbers-P09.pdb
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\obj\Debug\12.MatrixOfNumbers-P09.csprojResolveAssemblyReference.cache
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\obj\Debug\12.MatrixOfNumbers-P09.exe
+D:\C#\C# 2014\Telerik\Homeworks\Loops\12.MatrixOfNumbers-P09\obj\Debug\12.MatrixOfNumbers-P09.pdb

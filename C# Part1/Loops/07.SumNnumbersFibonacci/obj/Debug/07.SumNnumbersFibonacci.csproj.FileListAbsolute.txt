@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\bin\Debug\07.SumNnumbersFibonacci.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\bin\Debug\07.SumNnumbersFibonacci.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\bin\Debug\07.SumNnumbersFibonacci.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\obj\Debug\07.SumNnumbersFibonacci.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\obj\Debug\07.SumNnumbersFibonacci.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Loops\07.SumNnumbersFibonacci\obj\Debug\07.SumNnumbersFibonacci.pdb

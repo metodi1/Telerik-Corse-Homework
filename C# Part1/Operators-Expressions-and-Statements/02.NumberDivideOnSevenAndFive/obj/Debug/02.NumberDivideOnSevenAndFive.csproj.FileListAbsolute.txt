@@ -1,0 +1,6 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\bin\Debug\02.NumberDivideOnSevenAndFive.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\bin\Debug\02.NumberDivideOnSevenAndFive.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\bin\Debug\02.NumberDivideOnSevenAndFive.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\obj\Debug\02.NumberDivideOnSevenAndFive.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\obj\Debug\02.NumberDivideOnSevenAndFive.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\02.NumberDivideOnSevenAndFive\obj\Debug\02.NumberDivideOnSevenAndFive.pdb
