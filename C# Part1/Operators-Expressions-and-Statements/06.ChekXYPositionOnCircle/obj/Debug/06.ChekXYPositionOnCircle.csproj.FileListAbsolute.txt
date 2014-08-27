@@ -1,0 +1,12 @@
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.exe.config
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.pdb
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.csprojResolveAssemblyReference.cache
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.exe
+D:\TDD\Course\C#\C# 2014\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.exe.config
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.exe
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\bin\Debug\06.ChekXYPositionOnCircle.pdb
+D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Operators-Expressions-and-Statements\06.ChekXYPositionOnCircle\obj\Debug\06.ChekXYPositionOnCircle.csprojResolveAssemblyReference.cache
