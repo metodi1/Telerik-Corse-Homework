@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\bin\Debug\03.Gen01Vector.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\bin\Debug\03.Gen01Vector.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\bin\Debug\03.Gen01Vector.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\obj\Debug\03.Gen01Vector.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\obj\Debug\03.Gen01Vector.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\03.Gen01Vector\obj\Debug\03.Gen01Vector.pdb
