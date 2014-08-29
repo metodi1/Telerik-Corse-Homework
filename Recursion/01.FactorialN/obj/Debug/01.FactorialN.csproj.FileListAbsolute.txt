@@ -4,3 +4,9 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\b
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.csprojResolveAssemblyReference.cache
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\bin\Debug\01.FactorialN.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\bin\Debug\01.FactorialN.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\bin\Debug\01.FactorialN.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\01.FactorialN\obj\Debug\01.FactorialN.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.csprojResolveAssemblyReference.cache
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\bin\Debug\02.Generating01Vectors.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\bin\Debug\02.Generating01Vectors.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\bin\Debug\02.Generating01Vectors.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\02.Generating01Vectors\obj\Debug\02.Generating01Vectors.pdb

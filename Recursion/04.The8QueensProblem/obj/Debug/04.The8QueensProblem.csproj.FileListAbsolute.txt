@@ -4,3 +4,9 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensPr
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.csprojResolveAssemblyReference.cache
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\bin\Debug\04.The8QueensProblem.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\bin\Debug\04.The8QueensProblem.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\bin\Debug\04.The8QueensProblem.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\Recursion\04.The8QueensProblem\obj\Debug\04.The8QueensProblem.pdb
