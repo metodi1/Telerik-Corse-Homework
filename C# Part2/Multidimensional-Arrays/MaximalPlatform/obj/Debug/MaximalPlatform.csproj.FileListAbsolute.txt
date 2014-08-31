@@ -4,3 +4,6 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\obj\Debug\MaximalPlatform.csprojResolveAssemblyReference.cache
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\obj\Debug\MaximalPlatform.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\obj\Debug\MaximalPlatform.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\bin\Debug\MaximalPlatform.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\obj\Debug\MaximalPlatform.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\MaximalPlatform\obj\Debug\MaximalPlatform.pdb
