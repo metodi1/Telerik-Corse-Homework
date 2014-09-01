@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\bin\Debug\01.CreateAndPrintNMatrix_Var2.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\bin\Debug\01.CreateAndPrintNMatrix_Var2.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\bin\Debug\01.CreateAndPrintNMatrix_Var2.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\obj\Debug\01.CreateAndPrintNMatrix_Var2.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\obj\Debug\01.CreateAndPrintNMatrix_Var2.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix_Var2\obj\Debug\01.CreateAndPrintNMatrix_Var2.pdb
