@@ -3,3 +3,9 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\bin\Debug\01.CreateAndPrintNMatrix.pdb
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\obj\Debug\01.CreateAndPrintNMatrix.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\obj\Debug\01.CreateAndPrintNMatrix.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\bin\Debug\01.CreateAndPrintNMatrix.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\bin\Debug\01.CreateAndPrintNMatrix.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\bin\Debug\01.CreateAndPrintNMatrix.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\obj\Debug\01.CreateAndPrintNMatrix.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\obj\Debug\01.CreateAndPrintNMatrix.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\01.CreateAndPrintNMatrix\obj\Debug\01.CreateAndPrintNMatrix.csprojResolveAssemblyReference.cache
