@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreateAndPrintNmatrix_Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreateAndPrintNmatrix_Var4", "01.CreateAndPrintNmatrix_Var4\01.CreateAndPrintNmatrix_Var4.csproj", "{19F15D02-9A12-4908-B1B0-870824AD9927}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreateAndPrintNMatrix_Ver5", "01.CreateAndPrintNMatrix_Ver5\01.CreateAndPrintNMatrix_Ver5.csproj", "{75CFDBB2-65B1-4480-BCA1-77663339F536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MaxSumInRectangualarMatrix", "02.MaxSumInRectangualarMatrix\02.MaxSumInRectangualarMatrix.csproj", "{54B11C9E-E6B4-44A4-9C98-5E6BFB04C1F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{19F15D02-9A12-4908-B1B0-870824AD9927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F15D02-9A12-4908-B1B0-870824AD9927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19F15D02-9A12-4908-B1B0-870824AD9927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CFDBB2-65B1-4480-BCA1-77663339F536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CFDBB2-65B1-4480-BCA1-77663339F536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CFDBB2-65B1-4480-BCA1-77663339F536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CFDBB2-65B1-4480-BCA1-77663339F536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B11C9E-E6B4-44A4-9C98-5E6BFB04C1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B11C9E-E6B4-44A4-9C98-5E6BFB04C1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B11C9E-E6B4-44A4-9C98-5E6BFB04C1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B11C9E-E6B4-44A4-9C98-5E6BFB04C1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
