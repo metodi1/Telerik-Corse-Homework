@@ -4,3 +4,6 @@ C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-A
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\obj\Debug\02.MaxSumInRectangualarMatrix.csprojResolveAssemblyReference.cache
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\obj\Debug\02.MaxSumInRectangualarMatrix.exe
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\obj\Debug\02.MaxSumInRectangualarMatrix.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\bin\Debug\02.MaxSumInRectangualarMatrix.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\obj\Debug\02.MaxSumInRectangualarMatrix.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\02.MaxSumInRectangualarMatrix\obj\Debug\02.MaxSumInRectangualarMatrix.pdb
