@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\bin\Debug\03.LongestSequence.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\obj\Debug\03.LongestSequence.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\bin\Debug\03.LongestSequence.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\bin\Debug\03.LongestSequence.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\obj\Debug\03.LongestSequence.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\03.LongestSequence\obj\Debug\03.LongestSequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\bin\Debug\04.ArrayBinSearch.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\04.ArrayBinSearch\obj\Debug\04.ArrayBinSearch.pdb
