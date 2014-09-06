@@ -6,26 +6,26 @@
 ////4  5  6  7 
 
 class CreateAndPrintNMatrix_Ver5
-{
-    static void PrintMatrix(int[,] matrix)
     {
-        for (int i = 0; i < matrix.GetLength(0); i++)
+    static void PrintMatrix(int[,] matrix)
         {
-            for (int j = 0; j < matrix.GetLength(1); j++)
+        for (int i = 0; i < matrix.GetLength(0); i++)
             {
+            for (int j = 0; j < matrix.GetLength(1); j++)
+                {
                 Console.Write("{0, 3}", matrix[i, j]);
-            }
+                }
 
             Console.WriteLine();
+            }
         }
-    }
 
     static void Main()
-    {
+        {
         ////input
         Console.Write("Enter n: ");
         int n = int.Parse(Console.ReadLine());
-        int[,] matrix = new int[n, n];        
+        int[,] matrix = new int[n, n];
         bool up = false;
         bool down = true;
         bool left = false;
@@ -35,64 +35,66 @@ class CreateAndPrintNMatrix_Ver5
         int maxRaotation = (int)Math.Pow(n, 2);
 
         for (int i = 1; i < maxRaotation + 1; i++)
-        {   
-            if (down)
             {
-                matrix[row, col] = i;
-                row++;
-                if (row == n || matrix[row, col] != 0)
-                {
-                    row--;
-                    down = false;
-                    rigth = true;
-                    col++;
-                    continue;
-                }
-            }
-
-            if (rigth)
-            {
-                matrix[row, col] = i;
-                col++;
-                if (col == n || matrix[row, col] != 0)
-                {
-                    col--;
-                    rigth = false;
-                    up = true;
-                    row--;
-                    continue;
-                }
-            }
-
             if (up)
-            {
+                {
                 matrix[row, col] = i;
                 row--;
                 if (row == -1 || matrix[row, col] != 0)
-                {
+                    {
                     row++;
                     up = false;
                     left = true;
                     col--;
                     continue;
+                    }
                 }
-            }
+
+            if (down)
+                {
+                matrix[row, col] = i;
+                row++;
+                if (row == n || matrix[row, col] != 0)
+                    {
+                    row--;
+                    down = false;
+                    rigth = true;
+                    col++;
+                    continue;
+                    }
+                }
+
+            if (rigth)
+                {
+                matrix[row, col] = i;
+                col++;
+                if (col == n || matrix[row, col] != 0)
+                    {
+                    col--;
+                    rigth = false;
+                    up = true;
+                    row--;
+                    continue;
+                    }
+                }
+
+
 
             if (left)
-            {
+                {
                 matrix[row, col] = i;
                 col--;
                 if (col == 0 || matrix[row, col] != 0)
-                {
+                    {
                     col++;
                     left = false;
                     down = true;
                     row++;
                     continue;
+                    }
                 }
             }
-        }
-        
+
         PrintMatrix(matrix);
+        }
     }
-}

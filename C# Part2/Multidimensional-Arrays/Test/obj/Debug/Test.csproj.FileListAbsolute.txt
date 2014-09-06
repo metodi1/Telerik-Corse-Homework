@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\bin\Debug\Test.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\bin\Debug\Test.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\bin\Debug\Test.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\obj\Debug\Test.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\Test\obj\Debug\Test.pdb

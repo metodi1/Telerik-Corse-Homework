@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalPlatform", "MaximalPlatform\MaximalPlatform.csproj", "{26127972-A4A9-4F8E-A758-FB084FA2308D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CreateAndPrintNMatrix", "01.CreateAndPrintNMatrix\01.CreateAndPrintNMatrix.csproj", "{577E7CC5-F2F2-48FC-B30D-E626EA46021B}"
@@ -18,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LongestSequence", "03.LongestSequence\03.LongestSequence.csproj", "{B23A2BCD-C9C2-473C-B540-A0F456BEDC97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayBinSearch", "04.ArrayBinSearch\04.ArrayBinSearch.csproj", "{BF9AECA2-6CFE-4F50-874B-F3DEF0ADC130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{A5741ACD-4B7F-4DF2-91FB-D3A7660F20F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +65,10 @@ Global
 		{BF9AECA2-6CFE-4F50-874B-F3DEF0ADC130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF9AECA2-6CFE-4F50-874B-F3DEF0ADC130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF9AECA2-6CFE-4F50-874B-F3DEF0ADC130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5741ACD-4B7F-4DF2-91FB-D3A7660F20F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5741ACD-4B7F-4DF2-91FB-D3A7660F20F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5741ACD-4B7F-4DF2-91FB-D3A7660F20F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5741ACD-4B7F-4DF2-91FB-D3A7660F20F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
