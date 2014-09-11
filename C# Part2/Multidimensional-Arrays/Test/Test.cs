@@ -1,26 +1,43 @@
 ﻿using System;
+using System.Collections;
 
-
-class Test
+class SortStringArrayByLength
+{
+    class StringComparer : IComparer
     {
-    static void Main()
+        public int Compare(object a, object b)
         {
-        //input
-        Console.Write("Enter array lenght:");
-        int n = int.Parse(Console.ReadLine());
-
-        int[] array = new int[n];
-
-        for (int i = 0; i < array.Length; i++)
+            if (a.ToString().Length != b.ToString().Length)
             {
-            array[i] = int.Parse(Console.ReadLine());
+                return a.ToString().Length.CompareTo(b.ToString().Length);
             }
-
-        for (int i = 0; i < array.Length; i++)
+            else
             {
-                Console.Write("{0}, ", array[i] );
+                return a.ToString().CompareTo(b.ToString());
             }
-
-        Console.WriteLine();
         }
     }
+
+    static void Main()
+    {
+
+        Console.Write("Input number of elements n: ");
+        int n = int.Parse(Console.ReadLine());
+        string[] array = new string[n];
+
+        Console.WriteLine("Input string elements!");
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write("Element {0}: ", i);
+            array[i] = Console.ReadLine();
+        }
+
+        Array.Sort(array, new StringComparer());
+
+        foreach (string element in array)
+        {
+            Console.Write("{0} ", element);
+        }
+        Console.WriteLine();
+    }
+}

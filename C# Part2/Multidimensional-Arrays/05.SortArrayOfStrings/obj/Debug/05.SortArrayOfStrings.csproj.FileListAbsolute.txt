@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.pdb
