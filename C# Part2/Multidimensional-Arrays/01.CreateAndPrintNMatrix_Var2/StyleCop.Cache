@@ -1,10 +1,13 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="1964088862">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="CreateAndPrintNMatrix_Var2.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014.04.01 10:18:24.000</styleCop>
       <settingsFile>2014.09.01 22:13:09.661</settingsFile>
-      <sourceFile>2014.09.01 21:53:56.787</sourceFile>
+      <sourceFile>2014.09.01 23:11:33.903</sourceFile>
       <parser>2014.04.01 10:18:24.000</parser>
       <StyleCop.CSharp.DocumentationRules>2014.04.01 10:18:24.000</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>-936030605</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -29,7 +32,7 @@
       </violation>
       <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentsMustNotBeFollowedByBlankLine" ruleCheckId="SA1512">
         <context>A single-line comment must not be followed by a blank line. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>2</line>
+        <line>6</line>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
@@ -45,49 +48,17 @@
       </violation>
       <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
         <context>The class must have an access modifier.</context>
-        <line>4</line>
+        <line>8</line>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
         <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
-        <line>33</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
-        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
-        <line>61</line>
+        <line>59</line>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
         <context>The method must have an access modifier.</context>
-        <line>6</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
-        <context>The spacing around the symbol '/' is invalid.</context>
-        <line>30</line>
-        <index>895</index>
-        <endIndex>895</endIndex>
-        <startLine>30</startLine>
-        <startColumn>44</startColumn>
-        <endLine>30</endLine>
-        <endColumn>44</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SymbolsMustBeSpacedCorrectly" ruleCheckId="SA1003">
-        <context>The spacing around the symbol '/' is invalid.</context>
-        <line>30</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="ClosingParenthesisMustBeSpacedCorrectly" ruleCheckId="SA1009">
-        <context>Invalid spacing around the closing parenthesis.</context>
-        <line>34</line>
-        <index>1021</index>
-        <endIndex>1021</endIndex>
-        <startLine>34</startLine>
-        <startColumn>33</startColumn>
-        <endLine>34</endLine>
-        <endColumn>33</endColumn>
+        <line>10</line>
         <warning>False</warning>
       </violation>
     </violations>
@@ -115,7 +86,4 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="1964088862">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>

@@ -1,1 +1,7 @@
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\bin\Debug\06.MatrixUI.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\bin\Debug\06.MatrixUI.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\bin\Debug\06.MatrixUI.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\bin\Debug\06.MatrixUI.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\obj\Debug\06.MatrixUI.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\obj\Debug\06.MatrixUI.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Multidimensional-Arrays\06.MatrixUI\obj\Debug\06.MatrixUI.pdb

@@ -15,10 +15,9 @@ class Matrix
         {
             return this.matrix.GetLength(0);
         }
-
     }
 
-    public int Colums
+    public int Columns
     {
         get
         {
@@ -28,12 +27,40 @@ class Matrix
 
     public static Matrix operator +(Matrix first, Matrix second)
     {
-        Matrix result = new Matrix();
+        Matrix result = new Matrix(first.Rows, first.Columns);
         for (int row = 0; row < first.Rows; row++)
         {
-            for (int col = 0; col < first.Colums; col++)
+            for (int col = 0; col < first.Columns; col++)
             {
                 result[row, col] = first[row, col] + second[row, col];
+            }
+        }
+
+        return result;
+    }
+
+    public static Matrix operator -(Matrix first, Matrix second)
+    {
+        Matrix result = new Matrix(first.Rows, first.Columns);
+        for (int row = 0; row < first.Rows; row++)
+        {
+            for (int col = 0; col < first.Columns; col++)
+            {
+                result[row, col] = first[row, col] - second[row, col];
+            }
+        }
+
+        return result;
+    }
+
+    public static Matrix operator *(Matrix first, Matrix second)
+    {
+        Matrix result = new Matrix(first.Rows, first.Columns);
+        for (int row = 0; row < first.Rows; row++)
+        {
+            for (int col = 0; col < first.Columns; col++)
+            {
+                result[row, col] = first[row, col] * second[row, col];
             }
         }
 
@@ -52,4 +79,21 @@ class Matrix
             this.matrix[row, col] = value;
         }
     }
+
+    public override string ToString()
+    {
+        string result = null;
+        for (int row = 0; row < this.Rows; row++)
+        {
+            for (int col = 0; col < this.Columns; col++)
+            {
+                result += matrix[row, col] + " ";
+            }
+
+            result += Environment.NewLine;
+        }
+
+        return result;
+    }
+
 }
