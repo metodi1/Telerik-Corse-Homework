@@ -11,6 +11,14 @@ class Test2
 
         Console.WriteLine();
     }
+
+    static void PrintNumber(int start = 0, int end = 100)
+    {
+        for (int i = start; i <= end; i++)
+        {
+            Console.Write("{0} ", i);
+        }
+    }
     static void Main()
     {
         Console.Write("Enter number n:");
@@ -25,5 +33,13 @@ class Test2
         {
             PrintLine(1, line);
         }
+
+        PrintNumber(5, 10);
+        Console.WriteLine();
+        PrintNumber(15);
+        Console.WriteLine();
+        PrintNumber();
+        Console.WriteLine();
+        PrintNumber(end : 40, start: 35);
     }
 }
