@@ -1,0 +1,7 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\bin\Debug\01.PrintNameTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\bin\Debug\01.PrintNameTest.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\bin\Debug\01.PrintName.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\bin\Debug\01.PrintName.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\obj\Debug\01.PrintNameTest.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\obj\Debug\01.PrintNameTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\01.PrintNameTest\obj\Debug\01.PrintNameTest.pdb

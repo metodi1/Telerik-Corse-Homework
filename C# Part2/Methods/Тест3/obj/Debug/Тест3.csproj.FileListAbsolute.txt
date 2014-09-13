@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\bin\Debug\Тест3.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\bin\Debug\Тест3.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\bin\Debug\Тест3.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\obj\Debug\Тест3.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\obj\Debug\Тест3.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Тест3\obj\Debug\Тест3.pdb

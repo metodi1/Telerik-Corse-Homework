@@ -4,3 +4,9 @@ C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\bi
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.exe
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.pdb
 C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\bin\Debug\Test2.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\bin\Debug\Test2.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\bin\Debug\Test2.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
