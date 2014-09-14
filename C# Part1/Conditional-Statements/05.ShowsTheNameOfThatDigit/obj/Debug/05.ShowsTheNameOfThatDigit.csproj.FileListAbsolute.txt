@@ -4,3 +4,6 @@ D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\05.ShowsTheNam
 D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\05.ShowsTheNameOfThatDigit\obj\Debug\05.ShowsTheNameOfThatDigit.csprojResolveAssemblyReference.cache
 D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\05.ShowsTheNameOfThatDigit\obj\Debug\05.ShowsTheNameOfThatDigit.exe
 D:\TDD\Course\C#\C# 2014\Telerik\Homeworks\Conditional-Statements\05.ShowsTheNameOfThatDigit\obj\Debug\05.ShowsTheNameOfThatDigit.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part1\Conditional-Statements\05.ShowsTheNameOfThatDigit\bin\Debug\05.ShowsTheNameOfThatDigit.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part1\Conditional-Statements\05.ShowsTheNameOfThatDigit\obj\Debug\05.ShowsTheNameOfThatDigit.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part1\Conditional-Statements\05.ShowsTheNameOfThatDigit\obj\Debug\05.ShowsTheNameOfThatDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\bin\Debug\03.NameOfLastDigit.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\bin\Debug\03.NameOfLastDigit.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\bin\Debug\03.NameOfLastDigit.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\obj\Debug\03.NameOfLastDigit.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\obj\Debug\03.NameOfLastDigit.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\03.NameOfLastDigit\obj\Debug\03.NameOfLastDigit.pdb

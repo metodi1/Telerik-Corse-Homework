@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\bin\Debug\04.NumberOccursInArray.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\bin\Debug\04.NumberOccursInArray.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\bin\Debug\04.NumberOccursInArray.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\obj\Debug\04.NumberOccursInArray.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\obj\Debug\04.NumberOccursInArray.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\04.NumberOccursInArray\obj\Debug\04.NumberOccursInArray.pdb
