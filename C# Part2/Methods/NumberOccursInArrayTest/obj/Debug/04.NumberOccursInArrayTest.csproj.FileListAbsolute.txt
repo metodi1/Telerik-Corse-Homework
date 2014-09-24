@@ -1,0 +1,7 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\bin\Debug\NumberOccursInArrayTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\bin\Debug\NumberOccursInArrayTest.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\bin\Debug\04.NumberOccursInArray.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\bin\Debug\04.NumberOccursInArray.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\obj\Debug\04.NumberOccursInArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\obj\Debug\NumberOccursInArrayTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\NumberOccursInArrayTest\obj\Debug\NumberOccursInArrayTest.pdb
