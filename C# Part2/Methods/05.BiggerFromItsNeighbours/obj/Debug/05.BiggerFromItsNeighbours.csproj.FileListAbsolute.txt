@@ -1,1 +1,6 @@
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\bin\Debug\05.BiggerFromItsNeighbours.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\bin\Debug\05.BiggerFromItsNeighbours.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\bin\Debug\05.BiggerFromItsNeighbours.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\obj\Debug\05.BiggerFromItsNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\obj\Debug\05.BiggerFromItsNeighbours.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighbours\obj\Debug\05.BiggerFromItsNeighbours.pdb
