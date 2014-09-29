@@ -1,0 +1,7 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\bin\Debug\06.FirstBiggerThanNeighboursTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\bin\Debug\06.FirstBiggerThanNeighboursTest.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\bin\Debug\06.FirstBiggerThanNeighbours.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\bin\Debug\06.FirstBiggerThanNeighbours.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\obj\Debug\06.FirstBiggerThanNeighboursTest.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\obj\Debug\06.FirstBiggerThanNeighboursTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\06.FirstBiggerThanNeighboursTest\obj\Debug\06.FirstBiggerThanNeighboursTest.pdb

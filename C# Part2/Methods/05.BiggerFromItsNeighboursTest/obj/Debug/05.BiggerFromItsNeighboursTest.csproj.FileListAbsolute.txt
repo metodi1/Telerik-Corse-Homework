@@ -1,0 +1,7 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\bin\Debug\05.BiggerFromItsNeighboursTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\bin\Debug\05.BiggerFromItsNeighboursTest.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\bin\Debug\05.BiggerFromItsNeighbours.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\bin\Debug\05.BiggerFromItsNeighbours.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\obj\Debug\05.BiggerFromItsNeighboursTest.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\obj\Debug\05.BiggerFromItsNeighboursTest.dll
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\05.BiggerFromItsNeighboursTest\obj\Debug\05.BiggerFromItsNeighboursTest.pdb

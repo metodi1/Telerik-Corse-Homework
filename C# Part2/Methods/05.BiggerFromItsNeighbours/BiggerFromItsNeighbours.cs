@@ -1,29 +1,33 @@
 ﻿using System;
+
 /*Write a method that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).
 */
 
-
-class BiggerFromItsNeighbours
+public class BiggerFromItsNeighbours
 {
     public static bool BiggerThanItsNeghbours(int[] array, int position)
     {
-        if (position >= 1 && position <= array.Length - 2)
+        if (position < 0 || position >= array.Length)
         {
-            if (array[position] > array[position - 1] && array[position] > array[position + 1])
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            throw new IndexOutOfRangeException();
         }
-        return false;
-        
+        else if (position == array.Length - 1 && array.Length > 1)
+        {
+            return array[position - 1] < array[position];
+        }
+        else if (position == 0 && array.Length > 1)
+        {
+            return array[position] > array[position + 1];
+        }
+        else
+        {
+            return (array[position] > array[position - 1] && array[position] > array[position + 1]);
+        }
     }
+
     static void Main()
     {
-        Console.WriteLine("Enter positon number: ");
+        Console.Write("Enter positon number: ");
         int position = int.Parse(Console.ReadLine());
         int[] array = { 1, 4, 9, 3, 7, 8, 2, 6 };
 
@@ -35,6 +39,7 @@ class BiggerFromItsNeighbours
         {
             Console.WriteLine("The number is smoller!");
         }
+
         Console.WriteLine();
     }
 }
