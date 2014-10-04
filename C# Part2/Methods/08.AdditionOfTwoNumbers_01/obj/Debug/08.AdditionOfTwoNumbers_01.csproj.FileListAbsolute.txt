@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\bin\Debug\08.AdditionOfTwoNumbers_01.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\bin\Debug\08.AdditionOfTwoNumbers_01.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\bin\Debug\08.AdditionOfTwoNumbers_01.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\obj\Debug\08.AdditionOfTwoNumbers_01.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\obj\Debug\08.AdditionOfTwoNumbers_01.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\08.AdditionOfTwoNumbers_01\obj\Debug\08.AdditionOfTwoNumbers_01.pdb

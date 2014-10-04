@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ReverseDigitsOfNumber", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AdditionOfTwoNumbers", "08.AdditionOfTwoNumbers\08.AdditionOfTwoNumbers.csproj", "{14633091-B744-4CE8-9E95-065647B7F6FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AdditionOfTwoNumbers_01", "08.AdditionOfTwoNumbers_01\08.AdditionOfTwoNumbers_01.csproj", "{2FB0D3D3-261E-4D69-AE98-9A3350F23475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{14633091-B744-4CE8-9E95-065647B7F6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14633091-B744-4CE8-9E95-065647B7F6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14633091-B744-4CE8-9E95-065647B7F6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
