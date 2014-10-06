@@ -1,51 +1,40 @@
 ﻿using System;
+using System.Linq;
 
-
-class Тест3
+class FindMaximalElement
 {
-    static void Print(string text)
-    {
-        Console.WriteLine(text);
-    }
 
-    static void Print(int number)
-    {
-        Console.WriteLine(number);
-    }
-
-    static void Print(string text, int number)
-    {
-        Console.WriteLine(text + ' ' + number);
-    }
-    static double FahrentheitToCelcsius(double degrees)
-    {
-        double celcsius = (degrees - 32) * 5 / 9;
-        return celcsius;
-    }
-
-    static long CalcSum(params int[] elements)
-    {
-        long sum = 0;
-        foreach (int element in elements)
-        {
-            sum += element;            
-        }
-        return sum;
-    }
     static void Main()
     {
-        Console.WriteLine("Temperature in Fahranheit:");
-        double t = Double.Parse(Console.ReadLine());
-        t = FahrentheitToCelcsius(t);
-        Console.WriteLine("Temperature in Celsius: {0}", t);
+        string a = "123";
+        string b = "456";
 
-        Print(4);
-        Print("d");
-        Print("s", 3);
+        int[,] tmp = new int[a.Length - 1, b.Length];
 
-        CalcSum(2,3,4,5,6,4,5);
-        Console.WriteLine(CalcSum(2, 5));
-        Console.WriteLine(CalcSum(4, 0, -2, 12));
-        Console.WriteLine(CalcSum());
+        int carry = 0;
+
+        for (int i = a.Length - 1; i >= 0; i--)
+        {
+            for (int j = b.Length-1; j >= 0; j--)
+            {
+
+                int num = a[i] * b[j];
+                tmp[a.Length - 1 - i, j] = (num % 10) + carry;
+                carry = num / 10;
+                //int num = (i < a.Length ? a[i] : 0) + (i < b.Length ? b[i] : 0) + carry;
+                //result.Add(num % 10);
+                //carry = num / 10;
+            }
+        }
+
+        for (int i = 0; i < tmp.GetLength(0); i++)
+        {
+            for (int j = 0; j < tmp.GetLength(1); j++)
+            {
+
+                Console.WriteLine(tmp[i, j]);
+            }
+            Console.WriteLine();
+        }
     }
 }

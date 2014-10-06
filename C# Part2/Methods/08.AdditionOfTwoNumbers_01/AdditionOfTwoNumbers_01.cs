@@ -29,7 +29,7 @@ class AdditionOfTwoNumbers_01
             max = secondArray.Length;
         }
 
-        int[] addedDigits = new int[max - 1];
+        int[] addedDigits = new int[max + 1];
         int counter1 = 1;
         int counter2 = 1;
         int minus1 = addedDigits.Length - 1;
@@ -49,18 +49,58 @@ class AdditionOfTwoNumbers_01
                 minus2--;
             }
 
+            if (i - counter1 < 0)
+            {
+                addedDigits[i] += secondArray[i - counter2];
+                if (addedDigits[i] > 9)
+                {
+                    addedDigits[i] -= 10;
+                    addedDigits[i - 1] += 1;
+                }
+                continue;
+            }
+
+            if (i - counter2 < 0)
+            {
+                addedDigits[i] += firstArray[i - counter1];
+                if (addedDigits[i] > 9)
+                {
+                    addedDigits[i] -= 10;
+                    addedDigits[i - 1] += 1;
+                }
+                continue;
+            }
+
+            if (firstArray[i - counter1] + secondArray[i - counter2] > 9)
+            {
+                addedDigits[i] += (firstArray[i - counter1] + secondArray[i - counter2]) % 10;
+                addedDigits[i - 1] += 1;
+            }
+            else
+            {
+                addedDigits[i] += firstArray[i - counter1] + secondArray[i - counter2];
+            }
+
         }
 
-        return "s";
+        string result = string.Join("", addedDigits);
+
+        if (result[0] == '0')
+        {
+            result = result.Remove(0, 1);
+        }
+
+        return result;
     }
 
     static void Main()
     {
-        Console.Write("Enter the first number: ");
+        Console.Write("Enter the first number :" + new string(' ', 6));
         string first = Console.ReadLine();
-        Console.Write("Enter the second number: ");
+        Console.Write("Enter the second number:" + new string(' ', 6));
         string second = Console.ReadLine();
+        Console.WriteLine(new string('-', 35));
 
-        Console.WriteLine(AddingDigits(first, second));
+        Console.WriteLine("Result is:{0,23}", AddingDigits(first, second));
     }
 }

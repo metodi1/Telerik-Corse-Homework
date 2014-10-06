@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AdditionOfTwoNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AdditionOfTwoNumbers_01", "08.AdditionOfTwoNumbers_01\08.AdditionOfTwoNumbers_01.csproj", "{2FB0D3D3-261E-4D69-AE98-9A3350F23475}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SelectionSort", "09.SelectionSort\09.SelectionSort.csproj", "{AEDDA50B-F80C-4095-A225-3018B889A7D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Facturel", "10.Facturel\10.Facturel.csproj", "{97494283-FE0C-4B78-80CF-848F1E7178EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB0D3D3-261E-4D69-AE98-9A3350F23475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDDA50B-F80C-4095-A225-3018B889A7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDDA50B-F80C-4095-A225-3018B889A7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDDA50B-F80C-4095-A225-3018B889A7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDDA50B-F80C-4095-A225-3018B889A7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97494283-FE0C-4B78-80CF-848F1E7178EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97494283-FE0C-4B78-80CF-848F1E7178EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97494283-FE0C-4B78-80CF-848F1E7178EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97494283-FE0C-4B78-80CF-848F1E7178EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

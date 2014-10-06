@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\bin\Debug\09.SelectionSort.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\obj\Debug\09.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\bin\Debug\09.SelectionSort.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\bin\Debug\09.SelectionSort.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\obj\Debug\09.SelectionSort.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\09.SelectionSort\obj\Debug\09.SelectionSort.pdb

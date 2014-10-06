@@ -1,45 +1,47 @@
 ﻿using System;
 
-class Test2
+class Program
 {
-    static void PrintLine(int start, int end)
+    static void PrintArray(int[] arr)
     {
-        for (int i = start; i <= end; i++)
-        {
-            Console.Write(" {0}", i);
-        }
-
-        Console.WriteLine();
+        for (int i = 0; i < arr.Length; i++) Console.Write(arr[i] + (i == arr.Length - 1 ? "\n" : " "));
     }
 
-    static void PrintNumber(int start = 0, int end = 100)
+    static void Swap(int[] arr, int i, int j)
     {
-        for (int i = start; i <= end; i++)
-        {
-            Console.Write("{0} ", i);
-        }
+        int t = arr[i];
+        arr[i] = arr[j];
+        arr[j] = t;
     }
+
+    // Returns the min/max element starting from position i to the end of the array
+    static int GetBestFromPosition(int[] arr, int i, bool descending)
+    {
+        int best = i;
+
+        for (i++; i < arr.Length; i++)
+            if (descending ? arr[i] < arr[best] : arr[best] < arr[i])
+                best = i;
+
+        return best;
+    }
+
+    static void SelectionSort(int[] arr, bool descending = false)
+    {
+        for (int i = 0; i < arr.Length; i++)
+            Swap(arr, i, GetBestFromPosition(arr, i, descending));
+    }
+
     static void Main()
     {
-        Console.Write("Enter number n:");
-        int n = int.Parse(Console.ReadLine());
+        int[] arr = { -1, -3, 4, -5, 6, -7 };
 
-        for (int line = 1; line <= n; line++)
-        {
-            PrintLine(1, line);
-        }
+        // Ascending
+        SelectionSort(arr);
+        PrintArray(arr);
 
-        for (int line = n-1; line >= 1; line--)
-        {
-            PrintLine(1, line);
-        }
-
-        PrintNumber(5, 10);
-        Console.WriteLine();
-        PrintNumber(15);
-        Console.WriteLine();
-        PrintNumber();
-        Console.WriteLine();
-        PrintNumber(end : 40, start: 35);
+        // Descending
+        SelectionSort(arr, descending: true);
+        PrintArray(arr);
     }
 }
