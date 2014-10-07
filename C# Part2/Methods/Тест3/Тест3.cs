@@ -6,10 +6,10 @@ class FindMaximalElement
 
     static void Main()
     {
+        Console.ForegroundColor = ConsoleColor.Cyan;
         string a = "123";
         string b = "456";
-        int counter = 0;
-
+        
         int[] first = new int[a.Length];
         int[] second = new int[b.Length];
 

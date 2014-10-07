@@ -8,57 +8,116 @@ using System.Threading.Tasks;
 
 class Facturel
 {
-    static bool IsCorrectNumber(string number)
+    static int[,] MultiplyNumbers(string a, string b)
     {
-        for (int i = 0; i < number.Length; i++)
+        int[] first = new int[a.Length];
+        int[] second = new int[b.Length];
+
+        int[,] matrix = new int[second.Length, first.Length + 1];
+
+        for (int i = 0; i < first.Length; i++)
         {
-            if (number[i] < '0' || number[i] > '9')
+            first[i] = a[i] - 48;
+        }
+
+        for (int i = 0; i < b.Length; i++)
+        {
+            second[i] = b[i] - 48;
+        }
+
+        for (int row = second.Length - 1; row >= 0; row--)
+        {
+            for (int col = first.Length; col > 0; col--)
             {
-                return false;
+                if (second[row] * first[col - 1] < 10)
+                {
+                    matrix[row, col] += second[row] * first[col - 1];
+                }
+
+                if (second[row] * first[col - 1] >= 10)
+                {
+                    matrix[row, col] += second[row] * first[col - 1] % 10;
+                    matrix[row, col - 1] += second[row] * first[col - 1] / 10;
+
+                }
             }
         }
 
-        return true;
+        return matrix;
     }
 
-    static List<int> AddingTwoNumber(string number1, string number2)
+    static string GetResult(string a, string b)
     {
-        var a = number1.Select(ch => ch - '0').ToArray();
-        var b = number2.Select(ch => ch - '0').ToArray();
+        int diference;
 
-        Array.Reverse(a);
-        Array.Reverse(b);
-
-        List<int> result = new List<int>(Math.Max(a.Length, b.Length)+1);
-        int[,] tmp = new int[a.Length-1, b.Length];
-
-        int carry = 0;
-
-        for (int i = a.Length-1; i >= 0; i--)
+        if (b.Length > a.Length)
         {
-            for (int j = b.Length; j >= 0; j--)
-            {
+            diference = b.Length - a.Length - 1;
+        }
+        else
+        {
+            diference = 0;
+        }
 
-                int num = a[i] * b[j];
-                tmp[a.Length-1-i,j]=(num % 10) + carry;
-                carry = num / 10;
-                //int num = (i < a.Length ? a[i] : 0) + (i < b.Length ? b[i] : 0) + carry;
-                //result.Add(num % 10);
-                //carry = num / 10;
+        int[,] matrix = MultiplyNumbers(a, b);
+        int coun1 = a.Length;
+        int coun2 = 1;
+        int minus = b.Length - a.Length;
+        int[] arr = new int[a.Length + b.Length + 1];
+
+        for (int row = b.Length - 1; row >= 0; row--, coun1--, coun2++)
+        {
+            int count = arr.Length - 1;
+
+            for (int col = a.Length + coun1; col >= coun1; col--, count--)
+            {
+                if (count >= 0)
+                {
+                    if (arr[count] + matrix[row, col - coun1] < 10)
+                    {
+                        arr[count] += matrix[row, col - coun1];
+                    }
+                    else
+                    {
+                        arr[count] += matrix[row, col - coun1];
+                        arr[count] %= 10;
+                        arr[count - 1]++;
+                    }
+
+                    if (coun1 < 0)
+                    {
+                        coun1 = 0;
+                    }
+                }
+                else
+                {
+                    if (arr[count] + matrix[row, col - coun1] < 10)
+                    {
+                        arr[count] += matrix[row, col - coun1];
+                    }
+                    else
+                    {
+                        arr[count] += matrix[row, col - coun1] % 10;
+                        arr[count] %= 10;
+                        arr[count - 1]++;
+                    }
+                }
             }
         }
 
-        if (carry > 0)
+        string result = string.Join("", arr);
+
+        while (result[0] == '0')
         {
-            result.Add(carry);
+            result = result.Remove(0, 1);
         }
 
         return result;
     }
 
-    static void PrintResult(List<int> result)
+    static void PrintResult(int[] result)
     {
-        for (int i = result.Count-1; i >= 0; i--)
+        for (int i = result.Length - 1; i >= 0; i--)
         {
             Console.Write(result[i]);
         }
@@ -70,18 +129,7 @@ class Facturel
         string number1 = "123";
         string number2 = "456";
 
-        if (IsCorrectNumber(number1) && IsCorrectNumber(number2))
-        {
-            List<int> result = AddingTwoNumber(number1, number2);
-
-            Console.Write("\nNumber1{0,8}\nNumber2{1,8}\n", number1, number2);
-            Console.Write(new string('-', 16));
-            Console.Write("\nResult:     ");
-            PrintResult(result);
-        }
-        else
-        {
-            Console.WriteLine("\n-> You have entered an invalid number(s)...\n");
-        }
-    }
+        string result1 = GetResult(number1, number2);
+        PrintResult(result1);
+    }       
 }
