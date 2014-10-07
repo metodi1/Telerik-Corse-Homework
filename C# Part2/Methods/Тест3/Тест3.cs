@@ -8,31 +8,47 @@ class FindMaximalElement
     {
         string a = "123";
         string b = "456";
+        int counter = 0;
 
-        int[,] tmp = new int[a.Length - 1, b.Length];
+        int[] first = new int[a.Length];
+        int[] second = new int[b.Length];
 
-        int carry = 0;
+        int[,] matrix = new int[second.Length, first.Length + 1];
 
-        for (int i = a.Length - 1; i >= 0; i--)
+        for (int i = 0; i < first.Length; i++)
         {
-            for (int j = b.Length-1; j >= 0; j--)
-            {
+            first[i] = a[i] - 48;
+        }
 
-                int num = a[i] * b[j];
-                tmp[a.Length - 1 - i, j] = (num % 10) + carry;
-                carry = num / 10;
-                //int num = (i < a.Length ? a[i] : 0) + (i < b.Length ? b[i] : 0) + carry;
-                //result.Add(num % 10);
-                //carry = num / 10;
+        for (int i = 0; i < b.Length; i++)
+        {
+            second[i] = b[i] - 48;
+        }
+
+        for (int row = second.Length - 1; row >= 0; row--)
+        {
+            for (int col = first.Length; col > 0; col--)
+            {
+                if (second[row] * first[col - 1] < 10)
+                {
+                    matrix[row, col] += second[row] * first[col - 1];
+                }
+
+                if (second[row] * first[col - 1] >= 10)
+                {
+                    matrix[row, col] += second[row] * first[col - 1] % 10;
+                    matrix[row, col - 1] += second[row] * first[col - 1] / 10;
+
+                }
             }
         }
 
-        for (int i = 0; i < tmp.GetLength(0); i++)
+        //Print matrix
+        for (int row = 0; row < matrix.GetLength(0); row++)
         {
-            for (int j = 0; j < tmp.GetLength(1); j++)
+            for (int col = 0; col < matrix.GetLength(1); col++)
             {
-
-                Console.WriteLine(tmp[i, j]);
+                Console.Write(matrix[row, col]);
             }
             Console.WriteLine();
         }
