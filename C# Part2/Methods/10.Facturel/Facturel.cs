@@ -33,12 +33,10 @@ class Facturel
                 {
                     matrix[row, col] += second[row] * first[col - 1];
                 }
-
-                if (second[row] * first[col - 1] >= 10)
+                else
                 {
-                    matrix[row, col] += second[row] * first[col - 1] % 10;
+                    matrix[row, col] += (second[row] * first[col - 1]) % 10;
                     matrix[row, col - 1] += second[row] * first[col - 1] / 10;
-
                 }
             }
         }
@@ -48,26 +46,14 @@ class Facturel
 
     static string GetResult(string a, string b)
     {
-        int diference;
-
-        if (b.Length > a.Length)
-        {
-            diference = b.Length - a.Length - 1;
-        }
-        else
-        {
-            diference = 0;
-        }
-
         int[,] matrix = MultiplyNumbers(a, b);
         int coun1 = a.Length;
         int coun2 = 1;
-        int minus = b.Length - a.Length;
         int[] arr = new int[a.Length + b.Length + 1];
 
         for (int row = b.Length - 1; row >= 0; row--, coun1--, coun2++)
         {
-            int count = arr.Length - 1;
+            int count = arr.Length - coun2;
 
             for (int col = a.Length + coun1; col >= coun1; col--, count--)
             {
@@ -115,21 +101,22 @@ class Facturel
         return result;
     }
 
-    static void PrintResult(int[] result)
+    static void PrintResult(string result)
     {
-        for (int i = result.Length - 1; i >= 0; i--)
+        for (int i = 0; i < result.Length; i++)
         {
             Console.Write(result[i]);
         }
 
         Console.WriteLine("\n");
     }
+
     static void Main()
     {
-        string number1 = "123";
+        string number1 = "1237";
         string number2 = "456";
 
-        string result1 = GetResult(number1, number2);
-        PrintResult(result1);
-    }       
+        string result = GetResult(number1, number2);
+        PrintResult(result);
+    }
 }

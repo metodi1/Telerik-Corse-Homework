@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\bin\Debug\11.AddTwoPolinoms.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\obj\Debug\11.AddTwoPolinoms.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\bin\Debug\11.AddTwoPolinoms.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\bin\Debug\11.AddTwoPolinoms.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\obj\Debug\11.AddTwoPolinoms.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.AddTwoPolinoms\obj\Debug\11.AddTwoPolinoms.pdb
