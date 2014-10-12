@@ -15,7 +15,7 @@ class AddTwoPolinoms
 
         for (int i = 0; i < firstPolinom.Length; i++)
         {
-            Console.Write("{} coeficient = ", i);
+            Console.Write("{0} coeficient = ", i);
             firstPolinom[i] = int.Parse(Console.ReadLine());
         }
 
@@ -23,7 +23,7 @@ class AddTwoPolinoms
 
         for (int i = 0; i < secondPolinom.Length; i++)
         {
-            Console.Write("{} coeficient = ", i);
+            Console.Write("{0} coeficient = ", i);
             secondPolinom[i] = int.Parse(Console.ReadLine());
         }
 
@@ -46,14 +46,14 @@ class AddTwoPolinoms
         {
             int i;
             addedPolinom = new int[secondPolinom.Length];
-            for (i = 0; i < secondPolinom.Length; i++)
+            for (i = 0; i < firstPolinom.Length; i++)
             {
                 addedPolinom[i] = firstPolinom[i] + secondPolinom[i];
             }
 
-            for (int j = i; j < firstPolinom.Length; j++)
+            for (int j = i; j < secondPolinom.Length; j++)
             {
-                addedPolinom[j] = firstPolinom[j];
+                addedPolinom[j] = secondPolinom[j];
             }
 
         }
@@ -82,6 +82,7 @@ class AddTwoPolinoms
 
         return result;
     }
+
     static void Main()
     {
         int firstPolinomEx = 2;

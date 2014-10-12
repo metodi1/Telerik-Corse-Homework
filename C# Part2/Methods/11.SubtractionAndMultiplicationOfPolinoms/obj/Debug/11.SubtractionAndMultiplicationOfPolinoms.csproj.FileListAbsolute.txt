@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\bin\Debug\11.SubtractionAndMultiplicationOfPolinoms.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\bin\Debug\11.SubtractionAndMultiplicationOfPolinoms.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\bin\Debug\11.SubtractionAndMultiplicationOfPolinoms.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\obj\Debug\11.SubtractionAndMultiplicationOfPolinoms.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\obj\Debug\11.SubtractionAndMultiplicationOfPolinoms.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\11.SubtractionAndMultiplicationOfPolinoms\obj\Debug\11.SubtractionAndMultiplicationOfPolinoms.pdb

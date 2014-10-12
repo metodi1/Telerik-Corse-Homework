@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\bin\Debug\13.SloveTasks.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\bin\Debug\13.SloveTasks.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\bin\Debug\13.SloveTasks.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\obj\Debug\13.SloveTasks.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\obj\Debug\13.SloveTasks.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\13.SloveTasks\obj\Debug\13.SloveTasks.pdb
