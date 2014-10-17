@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\bin\Debug\14.CalculatesMethods.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\bin\Debug\14.CalculatesMethods.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\bin\Debug\14.CalculatesMethods.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\obj\Debug\14.CalculatesMethods.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\obj\Debug\14.CalculatesMethods.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\14.CalculatesMethods\obj\Debug\14.CalculatesMethods.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\bin\Debug\15.CalculatesMethodsGenericTypes.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\obj\Debug\15.CalculatesMethodsGenericTypes.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\bin\Debug\15.CalculatesMethodsGenericTypes.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\bin\Debug\15.CalculatesMethodsGenericTypes.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\obj\Debug\15.CalculatesMethodsGenericTypes.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\Methods\15.CalculatesMethodsGenericTypes\obj\Debug\15.CalculatesMethodsGenericTypes.pdb

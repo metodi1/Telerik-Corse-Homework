@@ -1,66 +1,56 @@
 ﻿using System;
+using System.Collections.Generic;
 
-class Test
+namespace GenericApplication
 {
-    static void PrintSign(int number)
+    public class MyGenericArray<T>
     {
-        if (number > 0)
+        private T[] array;
+        public MyGenericArray(int size)
         {
-            Console.WriteLine("The number {0} is positive", number);
+            array = new T[size + 1];
         }
-        else if (number < 0)
+        public T getItem(int index)
         {
-            Console.WriteLine("The number {0} is negativ", number);
+            return array[index];
         }
-        else
+        public void setItem(int index, T value)
         {
-            Console.WriteLine("The number {0} is zero", number);
+            array[index] = value;
         }
     }
 
-    static void PrintMax(float number1, float number2)
+    class Tester
     {
-        float max = number1;
-        if (number2 > number1)
+        static void Main(string[] args)
         {
-            max = number2;
+            //declaring an int array
+            MyGenericArray<int> intArray = new MyGenericArray<int>(5);
+            //setting values
+            for (int c = 0; c < 5; c++)
+            {
+                intArray.setItem(c, c * 5);
+            }
+            //retrieving the values
+            for (int c = 0; c < 5; c++)
+            {
+                Console.Write(intArray.getItem(c) + " ");
+            }
+            Console.WriteLine();
+            //declaring a character array
+            MyGenericArray<char> charArray = new MyGenericArray<char>(5);
+            //setting values
+            for (int c = 0; c < 5; c++)
+            {
+                charArray.setItem(c, (char)(c + 97));
+            }
+            //retrieving the values
+            for (int c = 0; c < 5; c++)
+            {
+                Console.Write(charArray.getItem(c) + " ");
+            }
+            Console.WriteLine();
+            Console.ReadKey();
         }
-
-        Console.WriteLine("Maximal number: {0}", max);
-    }
-
-    static void SayMonth(int month)
-    {
-        string[] monthNames = new string[] {
-            "Jenuary", "February", "March", "April", "May", "June", "July", "August", "September", "Octouber", "November", "December"};
-        Console.WriteLine(monthNames[month -1]);
-    }
-
-    static void SayPeriod(int startMonth, int endMonth)
-    {
-        int period = endMonth - startMonth;
-        if (period<0)
-        {
-            period = period + 12;
-        }
-
-        Console.Write("There are {0} months from ", period);
-        SayMonth(startMonth);
-        Console.Write(" to ");
-        SayMonth(endMonth);
-    }
-    static void Main()
-    {
-        Console.Write("Enter number: ");
-        int number = int.Parse(Console.ReadLine());
-        Console.Write("For period enter start month: ");
-        int startMonth = int.Parse(Console.ReadLine());
-        Console.Write("For period enter end month: ");
-        int endMonth = int.Parse(Console.ReadLine());
-        PrintSign(number);
-        PrintMax(5, 2);
-        PrintMax(-5, 2);
-        SayMonth(9);
-        SayPeriod(startMonth, endMonth);
     }
 }
