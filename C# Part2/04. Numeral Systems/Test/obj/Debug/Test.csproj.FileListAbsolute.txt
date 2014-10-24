@@ -3,3 +3,9 @@ C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral System
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\bin\Debug\Test.pdb
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\obj\Debug\Test.exe
 C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\obj\Debug\Test.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\bin\Debug\Test.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\obj\Debug\Test.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\obj\Debug\Test.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\bin\Debug\Test.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\bin\Debug\Test.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
