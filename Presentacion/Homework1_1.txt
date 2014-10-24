@@ -1,0 +1,111 @@
+Тема 6. Да се напише/ат командата/ите за създаване на софтуерен RAID5 от 5 SATA диска
+
+	Използвам VirtualBox на който сме инсталирали Linux - CentOS 6.5
+	Във VirtualBox добавям SATA контролер.
+	Към SATA контролера добавям 5 SATA диска.
+
+	Петте устройства, с които ще създаваме масива са: sdb, sdc, sdd, sde, sdf.
+
+	1.	Вземам root права.
+		-	su - смяна на потребителя.
+		-	root password.
+		
+	2.	С fdisk създаваме Primary партишън за веки диск (само по един на диск).
+		- fdisk /dev/sdb - избирам диск на който да създам партишън.
+			- n - нов партишън
+			- p - указваме че партишъна е Primary.
+			- приключваме без да указваме първия и последния цилиндър - използваме стойности по подразбиране.
+		- p - принтва създадената partition table на текущия диск.
+		- w - записва таблицата на диска и излиза.
+	Тази процедура се повтаря за петте устройства: sdc, sdd, sde, sdf.
+	Препоръчително е те да бъдат еднакво форматирани (разцепени на еднакви по големина дялове) преди да бъде създаден масива. 
+	По принцип е възможно той да бъде създаден директно върху дисковете (без те да са разцепени на дялове), но не се препоръчва, тъй като може да създаде проблеми при подмяна на някое от устройствата. 
+	FS-TYPE на устройствата(дяловете) трябва да бъде Non-FS или Linux RAID auto (FD).
+	 
+	3. Инсталиране на mdadm.
+
+		-	yum install mdadm
+
+	4.Смяна на типа на партишъна в RAID тип.
+
+		-  fdisk /dev/sdb-f - избирам диска на който да сменим типа на партишън.
+			- t - сменя на партишън ID (FS-TYPE) - след избора на буква t ако извикаме Help (type L for list code), получаваме таблица с кодове на партишъните. Например: 83 - Linux, 5 - Extended, fd - RAID auto detect.
+			- fd - избираме RAID auto detect.
+			- w - записва таблицата на диска и излиза.
+			- partprobe - информираме операционната система, че е применен партишън тейбъла.
+
+	5. Създаване на масива.
+
+			-	mdadm --create /dev/md0 --level=5 --raid-devices=5 /dev/sdb1 /dev/sdc1 /dev/sdd1 /dev/sde1 /dev/sdf1
+
+		-	Резултат:
+
+			-	mdadm: Defaulting of version 1.2 metadata 
+
+			-	mdadm: array /dev/md0 started.
+
+	6.	Детаилна информация за RAID-а:
+		
+	[root@localhost user]# mdadm --detail /dev/md5
+	/dev/md0:
+			Version : 1.2
+	  Creation Time : Fri Oct 24 01:04:44 2014
+		 Raid Level : raid5
+		 Array Size : 2021376 (1974.33 MiB 2069.89 MB)
+	  Used Dev Size : 505344 (493.58 MiB 517.47 MB)
+	   Raid Devices : 5
+	  Total Devices : 5
+		Persistence : Superblock is persistent
+
+		Update Time : Fri Oct 24 01:11:52 2014
+			  State : clean 
+	 Active Devices : 5
+	Working Devices : 5
+	 Failed Devices : 0
+	  Spare Devices : 0
+
+			 Layout : left-symmetric
+		 Chunk Size : 512K
+
+			   Name : localhost.localdomain:5  (local to host localhost.localdomain)
+			   UUID : 0bad60c3:182eb2a9:c9ce9552:a8194bd9
+			 Events : 18
+
+		Number   Major   Minor   RaidDevice State
+		   0       8       49        0      active sync   /dev/sdb1
+		   1       8       65        1      active sync   /dev/sdc1
+		   2       8       81        2      active sync   /dev/sdd1
+		   3       8       97        3      active sync   /dev/sde1
+		   5       8      113        4      active sync   /dev/sdf1
+
+	7. Проверка на статуса на RAID-а.
+
+	[root@localhost user]# cat /proc/mdstat
+	Personalities : [raid1] [raid6] [raid5] [raid4] 
+	md0 : active raid5 sdf1[5] sde1[3] sdd1[2] sdc1[1] sdb1[0]
+		  2021376 blocks super 1.2 level 5, 512k chunk, algorithm 2 [5/5] [UUUUU]
+		  
+	unused devices: <none>
+
+	8.	Форматираме RAID устройството с EXT3 journaling method:
+
+		-	mke2fs -j /dev/md0
+		
+	9.	Монтиране на RAID фаиловата система:
+
+		-	mkdir /raid5
+		-	mount /dev/md0 /raid5
+		
+	10.	За да остане RAID постоянно монтиран дори и след рестарт е необходимо да се направи запис в /etc/fstab файла:
+
+		-	/dev/md0		/raid5		ext3	defaults		0 0	
+		
+	11. Литература.
+
+		-	http://computernetworkingnotes.com/disk-managements/raid.html - Как се конфигурира RAID5 в Linux
+
+		-	https://wiki.archlinux.org/index.php/RAID - Kак се създава подготвят устройства за създаване на масив, как се създават, спират и премахват масиви, как се добавят устройства към тях и др.
+
+		-	man mdadm - help в операционната система
+
+		-	http://doc.opensuse.org/products/draft/SLES/SLES-storage_sd_draft/raidmdadm.html - Създаване на SW RAID, Nested RAID.
