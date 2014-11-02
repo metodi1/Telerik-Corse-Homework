@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\obj\Debug\_02.Binary_to_Decimal.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\obj\Debug\_02.Binary_to_Decimal.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C# Part2\04. Numeral Systems\02. Binary to Decimal\obj\Debug\02. Binary to Decimal.csprojResolveAssemblyReference.cache
