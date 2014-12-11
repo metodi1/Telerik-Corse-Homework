@@ -1,244 +1,103 @@
 ﻿using System;
+using System.Collections.Generic;
+
+public class Point
+{
+    public Point(int x, int y)
+    {
+        this.X = x;
+        this.Y = y;
+    }
+
+    public Point()
+    {
+    }
+
+    public int X
+    {
+        get;
+        set;
+    }
+
+    public int Y
+    {
+        get;
+        set;
+    }
+}
 
 class ShipDamage
 {
-    public static int CalculateDamage(int cX, int cY, int smallX, int bigX, int smallY, int bigY, int h)
+    private const int bombsCount = 3;
+
+    public static int CalculateDamage(Point bomb, Point shipLeftDownCorner, Point shipRightUpCorner, int h)
     {
-        int result = 0;
+        Point newBomb = new Point(bomb.X, (-bomb.Y + 2 * h));
 
-        // Calculate damage of C
-        int damageC;
-        if (h > 0 && cY < 0)
+        if (newBomb.X < shipLeftDownCorner.X || newBomb.X > shipRightUpCorner.X ||
+            newBomb.Y < shipLeftDownCorner.Y || newBomb.Y > shipRightUpCorner.Y)
         {
-            damageC = (int) Math.Abs(cY) + h;
+            return 0;
+        }
+
+        if ((newBomb.Y == shipLeftDownCorner.Y && newBomb.X == shipLeftDownCorner.X) ||
+            (newBomb.Y == shipLeftDownCorner.Y && newBomb.X == shipRightUpCorner.X) ||
+            (newBomb.Y == shipRightUpCorner.Y && newBomb.X == shipLeftDownCorner.X) ||
+            (newBomb.Y == shipRightUpCorner.Y && newBomb.X == shipRightUpCorner.X))
+        {
+            return 25;
+        }
+        else if (newBomb.Y == shipLeftDownCorner.Y || newBomb.X == shipLeftDownCorner.X ||
+            newBomb.Y == shipRightUpCorner.Y || newBomb.X == shipRightUpCorner.X)
+        {
+            return 50;
         }
         else
         {
-            damageC = (int) Math.Abs(cY) - (int) Math.Abs(h);
+            return 100;
         }
-
-        if (cX < smallX || cX > bigX)
-        {
-            result += 0;
-        }
-        else
-        {
-            if (damageC < smallY - h || damageC > bigY - h)
-            {
-                result += 0;
-            }
-            else if (damageC == smallY - h || damageC == bigY - h)
-            {
-                if (cX == smallX || cX == bigX)
-                {
-                    result += 25;
-                }
-                else
-                {
-                    result += 50;
-                }
-            }
-            else
-            {
-                if (cX == smallX || cX == bigX)
-                {
-                    result += 50;
-                }
-                else
-                {
-                    result += 100;
-                }
-            }
-        }
-        return result;
     }
+
     static void Main()
     {
-        int sX1 = int.Parse(Console.ReadLine());
-        int sY1 = int.Parse(Console.ReadLine());
-        int sX2 = int.Parse(Console.ReadLine());
-        int sY2 = int.Parse(Console.ReadLine());
+        Point shipLeftDownCorner = new Point();
+
+        shipLeftDownCorner.X = int.Parse(Console.ReadLine());
+        shipLeftDownCorner.Y = int.Parse(Console.ReadLine());
+
+        Point shipRightUpCorner = new Point();
+
+        shipRightUpCorner.X = int.Parse(Console.ReadLine());
+        shipRightUpCorner.Y = int.Parse(Console.ReadLine());
+
         int h = int.Parse(Console.ReadLine());
-        int cX1 = int.Parse(Console.ReadLine());
-        int cY1 = int.Parse(Console.ReadLine());
-        int cX2 = int.Parse(Console.ReadLine());
-        int cY2 = int.Parse(Console.ReadLine());
-        int cX3 = int.Parse(Console.ReadLine());
-        int cY3 = int.Parse(Console.ReadLine());
+        List<Point> bombs = new List<Point>();
+
+        for (int i = 0; i < bombsCount; i++)
+        {
+            bombs.Add(new Point(int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine())));
+        }
 
         int result = 0;
-        int bigX = 0;
-        int smallX = 0;
-        int bigY = 0;
-        int smallY = 0;
 
-        if (sX1 > sX2)
+        if (shipLeftDownCorner.X > shipRightUpCorner.X)
         {
-            bigX = sX1;
-            smallX = sX2;
+            int temp = shipLeftDownCorner.X;
+            shipLeftDownCorner.X = shipRightUpCorner.X;
+            shipRightUpCorner.X = temp;
         }
-        else
+        if (shipLeftDownCorner.Y > shipRightUpCorner.Y)
         {
-            bigX = sX2;
-            smallX = sX1;
+            int temp = shipLeftDownCorner.Y;
+            shipLeftDownCorner.Y = shipRightUpCorner.Y;
+            shipRightUpCorner.Y = temp;
         }
 
-        if (sY1 > sY2)
+        for (int i = 0; i < bombsCount; i++)
         {
-            bigY = (int) Math.Abs(sY1);
-            smallY = (int) Math.Abs(sY2);
-        }
-        else
-        {
-            bigY = (int) Math.Abs(sY2);
-            smallY = (int) Math.Abs(sY1);
+            result += CalculateDamage(bombs[i], shipLeftDownCorner, shipRightUpCorner, h);
         }
 
-        Console.WriteLine(CalculateDamage(cX1, cY1, smallX, bigX, smallY, bigY, h) + "%");
-        Console.WriteLine(CalculateDamage(cX2, cY2, smallX, bigX, smallY, bigY, h) + "%");
-        Console.WriteLine(CalculateDamage(cX3, cY3, smallX, bigX, smallY, bigY, h) + "%");
-
-        result += CalculateDamage(cX1, cY1, smallX, bigX, smallY, bigY, h);
-        result += CalculateDamage(cX2, cY2, smallX, bigX, smallY, bigY, h);
-        result += CalculateDamage(cX3, cY3, smallX, bigX, smallY, bigY, h);
         Console.WriteLine(result + "%");
-        return;
-
-        //// Calculate damage of C1
-        //int damageC1;
-        //if (h > 0)
-        //{
-        //    damageC1 = (int) Math.Abs(cY1) + h;
-        //}
-        //else
-        //{
-        //    damageC1 = (int) Math.Abs(cY1) - (int) Math.Abs(h);
-        //}
-
-        //if (cX1 < smallX || cX1 > bigX)
-        //{
-        //    result += 0;
-        //}
-        //else
-        //{
-        //    if (damageC1 < smallY -h || damageC1 > bigY - h)
-        //    {
-        //        result += 0;
-        //    }
-        //    else if (damageC1 == smallY - h || damageC1 == bigY - h)
-        //    {
-        //        if (cX1 == smallX || cX1 == bigX)
-        //        {
-        //            result += 25;
-        //        }
-        //        else
-        //        {
-        //            result += 50;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (cX1 == smallX || cX1 == bigX)
-        //        {
-        //            result += 50;
-        //        }
-        //        else
-        //        {
-        //            result += 100;
-        //        }
-        //    }
-        //}
-
-        //// Calculate damage of C2
-        //int damageC2;
-        //if (h > 0)
-        //{
-        //    damageC2 = (int) Math.Abs(cY2) + h;
-        //}
-        //else
-        //{
-        //    damageC2 = (int) Math.Abs(cY2) - (int) Math.Abs(h);
-        //}
-
-        //if (cX2 < smallX || cX2 > bigX)
-        //{
-        //    result += 0;
-        //}
-        //else
-        //{
-        //    if (damageC2 < smallY - h || damageC2 > bigY - h)
-        //    {
-        //        result += 0;
-        //    }
-        //    else if (damageC2 == smallY - h || damageC2 == bigY - h)
-        //    {
-        //        if (cX2 == smallX || cX2 == bigX)
-        //        {
-        //            result += 25;
-        //        }
-        //        else
-        //        {
-        //            result += 50;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (cX2 == smallX || cX2 == bigX)
-        //        {
-        //            result += 50;
-        //        }
-        //        else
-        //        {
-        //            result += 100;
-        //        }
-        //    }
-        //}
-
-        //// Calculate damage of C3
-        //int damageC3;
-        //if (h > 0)
-        //{
-        //    damageC3 = (int) Math.Abs(cY3) + h;
-        //}
-        //else
-        //{
-        //    damageC3 = (int) Math.Abs(cY3) - (int) Math.Abs(h);
-        //}
-
-        //if (cX3 < smallX || cX3 > bigX)
-        //{
-        //    result += 0;
-        //}
-        //else
-        //{
-        //    if (damageC3 < smallY - h || damageC3 > bigY - h)
-        //    {
-        //        result += 0;
-        //    }
-        //    else if (damageC3 == smallY - h || damageC3 == bigY - h)
-        //    {
-        //        if (cX3 == smallX || cX3 == bigX)
-        //        {
-        //            result += 25;
-        //        }
-        //        else
-        //        {
-        //            result += 50;
-        //        }
-        //    }
-        //    else
-        //    {
-        //        if (cX3 == smallX || cX3 == bigX)
-        //        {
-        //            result += 50;
-        //        }
-        //        else
-        //        {
-        //            result += 100;
-        //        }
-        //    }
-        //}
-
-        //Console.WriteLine(result + "%");
     }
 }
