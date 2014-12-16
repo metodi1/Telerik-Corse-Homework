@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\01. Sevenland Numbers\bin\Debug\_01.Sevenland_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\01. Sevenland Numbers\bin\Debug\_01.Sevenland_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\01. Sevenland Numbers\bin\Debug\_01.Sevenland_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\01. Sevenland Numbers\obj\Debug\_01.Sevenland_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\01. Sevenland Numbers\obj\Debug\_01.Sevenland_Numbers.pdb
