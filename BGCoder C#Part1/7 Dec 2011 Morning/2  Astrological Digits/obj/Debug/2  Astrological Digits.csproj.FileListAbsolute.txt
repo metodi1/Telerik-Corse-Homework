@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\bin\Debug\2  Astrological Digits.exe.config
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\bin\Debug\2  Astrological Digits.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\bin\Debug\2  Astrological Digits.pdb
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\obj\Debug\2  Astrological Digits.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\obj\Debug\2  Astrological Digits.exe
+C:\Users\Todor\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\2  Astrological Digits\obj\Debug\2  Astrological Digits.pdb
