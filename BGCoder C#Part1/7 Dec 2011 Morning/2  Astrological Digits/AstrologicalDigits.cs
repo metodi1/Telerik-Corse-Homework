@@ -16,24 +16,8 @@ namespace _2__Astrological_Digits
             string inputLine = Regex.Replace(Console.ReadLine(), "[.-]", "");
             BigInteger number = BigInteger.Parse(inputLine);
 
-            int result = (int)(1 + BigInteger.Remainder(number - 1, 9));
-            Console.WriteLine(result);
-
-            //DigitsRoot(number);
+            int result = (int)(1 + (BigInteger)((number) - 1) % 9);  // BigInteger.Remainder(number - 1, 9));
+            Console.WriteLine(result);            
         }
-
-        //private static void DigitsRoot(BigInteger number)
-        //{
-
-        //    BigInteger result;
-
-        //    if (result == 0)
-        //    {
-        //        return;
-        //    }
-
-        //    result = DigitsRoot(number);
-        //    throw new NotImplementedException();
-        //}
     }
 }

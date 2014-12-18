@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\bin\Debug\_04.Dancing_Bits.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\bin\Debug\_04.Dancing_Bits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\bin\Debug\_04.Dancing_Bits.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\obj\Debug\_04.Dancing_Bits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\obj\Debug\_04.Dancing_Bits.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\04. Dancing Bits\obj\Debug\04. Dancing Bits.csprojResolveAssemblyReference.cache

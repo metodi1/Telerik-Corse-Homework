@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2  Astrological Digits", "2  Astrological Digits\2  Astrological Digits.csproj", "{380227E4-0FC5-45AD-90C9-29CE655ED91E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02  Astrological Digits", "2  Astrological Digits\02  Astrological Digits.csproj", "{380227E4-0FC5-45AD-90C9-29CE655ED91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Dancing Bits", "04. Dancing Bits\04. Dancing Bits.csproj", "{EE161F4F-2462-4721-BA19-1662A2A058BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Dancing Bits_1", "04. Dancing Bits_1\04. Dancing Bits_1.csproj", "{48F23B7E-4DAB-4529-9904-6BAB54DD5FA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{380227E4-0FC5-45AD-90C9-29CE655ED91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{380227E4-0FC5-45AD-90C9-29CE655ED91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{380227E4-0FC5-45AD-90C9-29CE655ED91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE161F4F-2462-4721-BA19-1662A2A058BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE161F4F-2462-4721-BA19-1662A2A058BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE161F4F-2462-4721-BA19-1662A2A058BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE161F4F-2462-4721-BA19-1662A2A058BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F23B7E-4DAB-4529-9904-6BAB54DD5FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F23B7E-4DAB-4529-9904-6BAB54DD5FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F23B7E-4DAB-4529-9904-6BAB54DD5FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F23B7E-4DAB-4529-9904-6BAB54DD5FA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
