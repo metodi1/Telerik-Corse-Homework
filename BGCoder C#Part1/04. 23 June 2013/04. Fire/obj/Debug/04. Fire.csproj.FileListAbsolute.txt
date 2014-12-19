@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\bin\Debug\_04.Fire.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\bin\Debug\_04.Fire.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\bin\Debug\_04.Fire.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\obj\Debug\04. Fire.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\obj\Debug\_04.Fire.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\04. Fire\obj\Debug\_04.Fire.pdb

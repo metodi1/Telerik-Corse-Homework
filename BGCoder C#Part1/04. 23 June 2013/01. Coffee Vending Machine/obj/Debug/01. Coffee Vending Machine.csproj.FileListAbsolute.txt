@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\bin\Debug\_01.Coffee_Vending_Machine.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\bin\Debug\_01.Coffee_Vending_Machine.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\bin\Debug\_01.Coffee_Vending_Machine.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\obj\Debug\01. Coffee Vending Machine.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\obj\Debug\_01.Coffee_Vending_Machine.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\01. Coffee Vending Machine\obj\Debug\_01.Coffee_Vending_Machine.pdb

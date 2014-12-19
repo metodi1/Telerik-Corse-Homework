@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\bin\Debug\_02.Drunken_Numbers.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\obj\Debug\02. Drunken Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\obj\Debug\_02.Drunken_Numbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\02. Drunken Numbers\obj\Debug\_02.Drunken_Numbers.pdb
