@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\bin\Debug\_05.Neuron_Mapping_Bits.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\bin\Debug\_05.Neuron_Mapping_Bits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\bin\Debug\_05.Neuron_Mapping_Bits.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\obj\Debug\_05.Neuron_Mapping_Bits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\obj\Debug\_05.Neuron_Mapping_Bits.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\05. Neuron_Mapping_Bits\obj\Debug\05. Neuron_Mapping_Bits.csprojResolveAssemblyReference.cache

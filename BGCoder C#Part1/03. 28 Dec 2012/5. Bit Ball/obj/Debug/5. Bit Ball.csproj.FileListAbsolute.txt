@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\bin\Debug\_5.Bit_Ball.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\obj\Debug\5. Bit Ball.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\bin\Debug\_5.Bit_Ball.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\bin\Debug\_5.Bit_Ball.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\obj\Debug\_5.Bit_Ball.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\5. Bit Ball\obj\Debug\_5.Bit_Ball.pdb
