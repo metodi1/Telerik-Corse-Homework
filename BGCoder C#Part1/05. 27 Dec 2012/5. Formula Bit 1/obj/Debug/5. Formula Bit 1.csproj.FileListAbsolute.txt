@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\bin\Debug\_5.Formula_Bit_1.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\bin\Debug\_5.Formula_Bit_1.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\bin\Debug\_5.Formula_Bit_1.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\obj\Debug\5. Formula Bit 1.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\obj\Debug\_5.Formula_Bit_1.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bit 1\obj\Debug\_5.Formula_Bit_1.pdb
