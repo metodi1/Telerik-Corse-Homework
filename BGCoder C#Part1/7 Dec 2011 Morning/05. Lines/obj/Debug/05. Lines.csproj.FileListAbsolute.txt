@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\bin\Debug\_05.Lines.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\obj\Debug\05. Lines.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\bin\Debug\_05.Lines.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\bin\Debug\_05.Lines.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\obj\Debug\_05.Lines.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\7 Dec 2011 Morning\05. Lines\obj\Debug\_05.Lines.pdb

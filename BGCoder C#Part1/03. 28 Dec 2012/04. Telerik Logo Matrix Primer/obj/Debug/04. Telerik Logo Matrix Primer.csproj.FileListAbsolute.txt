@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04. Telerik Logo Matrix Primer\bin\Debug\_04.Telerik_Logo_Matrix_Primer.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04. Telerik Logo Matrix Primer\bin\Debug\_04.Telerik_Logo_Matrix_Primer.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04. Telerik Logo Matrix Primer\bin\Debug\_04.Telerik_Logo_Matrix_Primer.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04. Telerik Logo Matrix Primer\obj\Debug\_04.Telerik_Logo_Matrix_Primer.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04. Telerik Logo Matrix Primer\obj\Debug\_04.Telerik_Logo_Matrix_Primer.pdb

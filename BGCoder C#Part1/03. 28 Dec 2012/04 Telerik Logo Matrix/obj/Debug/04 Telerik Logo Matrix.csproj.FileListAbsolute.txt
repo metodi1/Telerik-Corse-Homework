@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\bin\Debug\04 Telerik Logo Matrix.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\obj\Debug\04 Telerik Logo Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\bin\Debug\04 Telerik Logo Matrix.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\bin\Debug\04 Telerik Logo Matrix.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\obj\Debug\04 Telerik Logo Matrix.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\03. 28 Dec 2012\04 Telerik Logo Matrix\obj\Debug\04 Telerik Logo Matrix.pdb

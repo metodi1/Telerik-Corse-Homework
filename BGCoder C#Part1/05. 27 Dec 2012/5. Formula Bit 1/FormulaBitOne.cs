@@ -37,9 +37,16 @@ namespace _5.Formula_Bit_1
             bool top = false;
             bool isTrue = true;
             bool isDirection = true;
+            bool isBuild = true;
 
             while (isTrue)
             {
+                if (inputMatrix[rowPos, colPos] == '1')
+                {
+                    isBuild = false;
+                    isTrue = false;
+                    break;
+                }
                 // go down
                 if (down)
                 {
@@ -58,6 +65,13 @@ namespace _5.Formula_Bit_1
                             countDirection++;
                             rowPos = row - 1;
                             colPos = colPos - 1;
+
+                            if (inputMatrix[rowPos, colPos] == '1')
+                            {
+                                isBuild = false;
+                                isTrue = false;
+                            }
+
                             break;
                         }
 
@@ -69,7 +83,7 @@ namespace _5.Formula_Bit_1
                                 break;
                             }
 
-                            if (inputMatrix[row, colPos - 1] == 1)
+                            if (inputMatrix[row, colPos - 1] == '1')
                             {
                                 isTrue = false;
                                 break;
@@ -81,6 +95,12 @@ namespace _5.Formula_Bit_1
                                 countDirection++;
                                 rowPos = row - 1;
                                 colPos = colPos - 1;
+                                if (inputMatrix[rowPos, colPos] == '1')
+                                {
+                                    isBuild = false;
+                                    isTrue = false;
+                                    break;
+                                }
                                 break;
                             }
                         }
@@ -107,17 +127,31 @@ namespace _5.Formula_Bit_1
                             {
                                 down = true;
                             }
-                            
+
                             left = false;
                             countDirection++;
-                            colPos = col;
+                            colPos = col + 1;
+                            if (inputMatrix[rowPos - 1, colPos] == '1' && top)
+                            {
+                                isBuild = false;
+                                isTrue = false;
+                                break;
+                            }
+
+                            if (inputMatrix[rowPos + 1, colPos] == '1' && down)
+                            {
+                                isBuild = false;
+                                isTrue = false;
+                                break;
+                            }
                             break;
                         }
 
                         if (col == 0)
                         {
-                            if (inputMatrix[rowPos + 1, col] == 1)
+                            if (inputMatrix[rowPos + 1, col] == '1')
                             {
+                                isBuild = false;
                                 isTrue = false;
                                 break;
                             }
@@ -134,7 +168,14 @@ namespace _5.Formula_Bit_1
 
                                 left = false;
                                 countDirection++;
-                                colPos = col + 1;
+                                colPos = col;
+                                rowPos = rowPos + 1;
+                                if (inputMatrix[rowPos, colPos] == '1')
+                                {
+                                    isBuild = false;
+                                    isTrue = false;
+                                    break;
+                                }
                                 break;
                             }
                         }
@@ -146,7 +187,7 @@ namespace _5.Formula_Bit_1
                 {
                     isDirection = false;
 
-                    for (int row = rowPos-1; row >= 0; row--)
+                    for (int row = rowPos - 1; row >= 0; row--)
                     {
                         if (inputMatrix[row, colPos] != '1' && row >= 0)
                         {
@@ -164,7 +205,7 @@ namespace _5.Formula_Bit_1
 
                         if (row == 0)
                         {
-                            if (inputMatrix[row, colPos - 1] == 1)
+                            if (inputMatrix[row, colPos - 1] == '1')
                             {
                                 isTrue = false;
                                 break;
@@ -176,14 +217,40 @@ namespace _5.Formula_Bit_1
                                 countDirection++;
                                 rowPos = row;
                                 colPos = colPos - 1;
+                                if (inputMatrix[rowPos, colPos] == '1')
+                                {
+                                    isBuild = false;
+                                    isTrue = false;
+                                    break;
+                                }
                                 break;
                             }
                         }
+
+                        //if (inputMatrix[constant - 1, 0] == '0')
+                        //{
+                        //    isTrue = false;
+                        //    break;
+                        //}
+                        //else
+                        //{
+                        //    isBuild = false;
+                        //    isTrue = false;
+                        //    break;
+                        //}
                     }
                 }
             }
 
-            Console.WriteLine("{0} {1}", counterLenght, countDirection);
+            if (isBuild)
+            {
+                Console.WriteLine("{0} {1}", counterLenght, countDirection);
+            }
+            else
+            {
+                Console.WriteLine("No {0}", counterLenght);
+            }
+
         }
 
         private static void PrintMtrix(char[,] inputMatrix)
