@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\bin\Debug\_05.Game_of_Page_With_Methods.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\obj\Debug\05. Game of Page With Methods.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\bin\Debug\_05.Game_of_Page_With_Methods.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\bin\Debug\_05.Game_of_Page_With_Methods.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\obj\Debug\_05.Game_of_Page_With_Methods.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\01. 6 December 2013 Evening\05. Game of Page With Methods\obj\Debug\_05.Game_of_Page_With_Methods.pdb

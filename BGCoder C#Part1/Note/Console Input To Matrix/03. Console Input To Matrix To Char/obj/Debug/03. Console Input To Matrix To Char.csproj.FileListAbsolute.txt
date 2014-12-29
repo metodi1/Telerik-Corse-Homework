@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\bin\Debug\_03.Console_Input_To_Matrix_To_Char.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\obj\Debug\03. Console Input To Matrix To Char.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\bin\Debug\_03.Console_Input_To_Matrix_To_Char.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\bin\Debug\_03.Console_Input_To_Matrix_To_Char.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\obj\Debug\_03.Console_Input_To_Matrix_To_Char.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\03. Console Input To Matrix To Char\obj\Debug\_03.Console_Input_To_Matrix_To_Char.pdb

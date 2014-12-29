@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\bin\Debug\05.WarheadViktor.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\bin\Debug\05.WarheadViktor.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\bin\Debug\05.WarheadViktor.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\obj\Debug\05.WarheadViktor.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\obj\Debug\05.WarheadViktor.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05.WarheadViktor\obj\Debug\05.WarheadViktor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\bin\Debug\_01.Console_Input_To_Matrix_To_Bitwise.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\obj\Debug\01. Console Input To Matrix To Bitwise.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\bin\Debug\_01.Console_Input_To_Matrix_To_Bitwise.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\bin\Debug\_01.Console_Input_To_Matrix_To_Bitwise.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\obj\Debug\_01.Console_Input_To_Matrix_To_Bitwise.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\01. Console Input To Matrix To Bitwise\obj\Debug\_01.Console_Input_To_Matrix_To_Bitwise.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\bin\Debug\_05.Warhead.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\bin\Debug\_05.Warhead.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\bin\Debug\_05.Warhead.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\obj\Debug\_05.Warhead.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\obj\Debug\_05.Warhead.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\06. 6 December 2013 Morning\05. Warhead\obj\Debug\05. Warhead.csprojResolveAssemblyReference.cache

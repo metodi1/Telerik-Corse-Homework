@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\02. Console Input ToMatrix StringBilder\bin\Debug\_02.Console_Input_ToMatrix_StringBilder.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\02. Console Input ToMatrix StringBilder\bin\Debug\_02.Console_Input_ToMatrix_StringBilder.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\02. Console Input ToMatrix StringBilder\bin\Debug\_02.Console_Input_ToMatrix_StringBilder.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\02. Console Input ToMatrix StringBilder\obj\Debug\_02.Console_Input_ToMatrix_StringBilder.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Note\Console Input To Matrix\02. Console Input ToMatrix StringBilder\obj\Debug\_02.Console_Input_ToMatrix_StringBilder.pdb
