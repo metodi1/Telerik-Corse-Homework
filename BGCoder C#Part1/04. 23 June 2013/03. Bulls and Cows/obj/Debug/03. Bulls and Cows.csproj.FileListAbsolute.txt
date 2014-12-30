@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\bin\Debug\_03.Bulls_and_Cows.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\obj\Debug\03. Bulls and Cows.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\obj\Debug\_03.Bulls_and_Cows.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\04. 23 June 2013\03. Bulls and Cows\obj\Debug\_03.Bulls_and_Cows.pdb

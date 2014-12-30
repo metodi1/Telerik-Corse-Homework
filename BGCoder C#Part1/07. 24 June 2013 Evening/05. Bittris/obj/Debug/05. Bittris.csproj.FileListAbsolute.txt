@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\07. 24 June 2013 Evening\05. Bittris\bin\Debug\_05.Bittris.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\07. 24 June 2013 Evening\05. Bittris\bin\Debug\_05.Bittris.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\07. 24 June 2013 Evening\05. Bittris\bin\Debug\_05.Bittris.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\07. 24 June 2013 Evening\05. Bittris\obj\Debug\_05.Bittris.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\07. 24 June 2013 Evening\05. Bittris\obj\Debug\_05.Bittris.pdb
