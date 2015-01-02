@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\bin\Debug\MissCat2011.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\bin\Debug\MissCat2011.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\bin\Debug\MissCat2011.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\obj\Debug\MissCat2011.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\obj\Debug\MissCat2011.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011\obj\Debug\MissCat2011.pdb

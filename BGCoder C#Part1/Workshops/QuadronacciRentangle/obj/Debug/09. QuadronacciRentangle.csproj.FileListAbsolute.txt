@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\bin\Debug\QuadronacciRentangle.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\bin\Debug\QuadronacciRentangle.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\bin\Debug\QuadronacciRentangle.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\obj\Debug\09. QuadronacciRentangle.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\obj\Debug\QuadronacciRentangle.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\QuadronacciRentangle\obj\Debug\QuadronacciRentangle.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb

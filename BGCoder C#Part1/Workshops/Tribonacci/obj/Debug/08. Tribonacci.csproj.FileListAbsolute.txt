@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\bin\Debug\Tribonacci.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\obj\Debug\Tribonacci.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\obj\Debug\Tribonacci.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\bin\Debug\Tribonacci.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\bin\Debug\Tribonacci.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\Tribonacci\obj\Debug\08. Tribonacci.csprojResolveAssemblyReference.cache

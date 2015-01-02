@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\bin\Debug\Sheets.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\bin\Debug\Sheets.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\bin\Debug\Sheets.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\obj\Debug\03. Sheets.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\obj\Debug\Sheets.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\Sheets\obj\Debug\Sheets.pdb

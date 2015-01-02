@@ -1,0 +1,3 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bits\bin\Debug\_5.Formula_Bits.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bits\obj\Debug\_5.Formula_Bits.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\05. 27 Dec 2012\5. Formula Bits\obj\Debug\_5.Formula_Bits.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Tribonacci", "02. Tribo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Pillars", "05. Pillars\05. Pillars.csproj", "{B96CDDB9-2F8F-467A-AF24-5431F5D2F193}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. We All Love Bits!", "04. We All Love Bits!\04. We All Love Bits!.csproj", "{858A3872-3459-4D69-8403-1B3D898FF572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B96CDDB9-2F8F-467A-AF24-5431F5D2F193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B96CDDB9-2F8F-467A-AF24-5431F5D2F193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B96CDDB9-2F8F-467A-AF24-5431F5D2F193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858A3872-3459-4D69-8403-1B3D898FF572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858A3872-3459-4D69-8403-1B3D898FF572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858A3872-3459-4D69-8403-1B3D898FF572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858A3872-3459-4D69-8403-1B3D898FF572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

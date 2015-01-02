@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011Array\bin\Debug\MissCat2011Array.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011Array\bin\Debug\MissCat2011Array.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011Array\bin\Debug\MissCat2011Array.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011Array\obj\Debug\MissCat2011Array.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\Workshops\MissCat2011Array\obj\Debug\MissCat2011Array.pdb
