@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\obj\Debug\03.CardWarsBatka.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\bin\Debug\CardWarsBatka.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\bin\Debug\CardWarsBatka.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\bin\Debug\CardWarsBatka.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\obj\Debug\CardWarsBatka.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\09. 24 June 2013 Evening\CardWarsBatka\obj\Debug\CardWarsBatka.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\bin\Debug\OnesAndZeros.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\bin\Debug\OnesAndZeros.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\bin\Debug\OnesAndZeros.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\obj\Debug\OnesAndZeros.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\obj\Debug\OnesAndZeros.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros\obj\Debug\03. OnesAndZeros.csprojResolveAssemblyReference.cache
