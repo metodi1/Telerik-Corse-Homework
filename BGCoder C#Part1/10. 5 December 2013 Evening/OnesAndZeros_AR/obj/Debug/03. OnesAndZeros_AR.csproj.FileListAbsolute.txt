@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros_AR\bin\Debug\OnesAndZeros_AR.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros_AR\bin\Debug\OnesAndZeros_AR.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros_AR\bin\Debug\OnesAndZeros_AR.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros_AR\obj\Debug\OnesAndZeros_AR.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\OnesAndZeros_AR\obj\Debug\OnesAndZeros_AR.pdb

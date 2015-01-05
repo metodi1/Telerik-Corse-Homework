@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\bin\Debug\Eggcelent.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\bin\Debug\Eggcelent.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\bin\Debug\Eggcelent.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\obj\Debug\04. Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\obj\Debug\Eggcelent.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\BGCoder C#Part1\10. 5 December 2013 Evening\Eggcelent\obj\Debug\Eggcelent.pdb

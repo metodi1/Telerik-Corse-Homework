@@ -24,7 +24,9 @@ class OnesAndZeros
                 number.Append('-').Append(binaryNumber[i]).Append('_').Append('.');
             }
         }
-
+        
+        number.Remove(number.Length - 1, 1);
+        
         while (true)
         {
             if (number.Length == 63)
@@ -32,7 +34,7 @@ class OnesAndZeros
                 break;
             }
 
-            number.Remove(63, 1);
+            number.Remove(0, 1);
         }
 
         for (int row = 0; row < 5; row++)
