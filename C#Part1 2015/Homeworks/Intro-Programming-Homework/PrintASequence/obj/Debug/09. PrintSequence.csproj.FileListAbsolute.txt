@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintASequence\obj\Debug\PrintASequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

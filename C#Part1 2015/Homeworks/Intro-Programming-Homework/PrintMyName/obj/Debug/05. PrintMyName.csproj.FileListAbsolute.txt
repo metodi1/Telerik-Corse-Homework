@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\PrintMyName\obj\Debug\05. PrintMyName.csprojResolveAssemblyReference.cache

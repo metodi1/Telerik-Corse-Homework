@@ -9,7 +9,8 @@ class NaBabaMiSmetalnika
 
         int[,] matrix = new int[8, n];
 
-        int[] testNumber = new int[n];;
+        int[] testNumber = new int[n];
+        ;
 
         for (int row0 = 0; row0 < matrix.GetLength(0); row0++)
         {
@@ -26,6 +27,10 @@ class NaBabaMiSmetalnika
         string comand = String.Empty;
         int row = 0;
         int col = 0;
+
+        int cheskBitOne = 0;
+        int mask = 0;
+        int bit = 0;
         while (comand != "stop")
         {
             comand = Console.ReadLine();
@@ -34,35 +39,65 @@ class NaBabaMiSmetalnika
             {
                 row = int.Parse(Console.ReadLine());
                 col = int.Parse(Console.ReadLine());
-                //// test 
-                //for (int j = 0; j < n; j++)
-                //{
-                //    testNumber[j] = matrix[row, j];
-                //}
-                //foreach (var num in testNumber)
-                //{
-                //    Console.Write(num);
-                //}
-
-                //string num1 = String.Empty;
-                //foreach (var item in testNumber)
-                //{
-                //    num1 += testNumber[item].ToString();
-                //}
-                //int test = int.Parse(num1);
-                //Console.WriteLine(test);
-
+              
+                cheskBitOne = 0;
+                mask = 0;
+                bit = 0;
                 for (int i = 0; i <= col; i++)
                 {
                     if (matrix[row, i] == 1 && i > 0)
                     {
-                        col = i;
-                        while (matrix[row, col] != 0)
+                        for (int j = 0; j < i; j++)
                         {
-                            matrix[row, col] = (matrix[row, col] << 1) | matrix[row, col];
-                            col++;
+                            mask = 1 << j;
+                            cheskBitOne = matrix[row, j] & mask;
+                            bit = cheskBitOne >> j;
+                            if (bit == 0)
+                            {
+                                matrix[row, j] = 1;
+                                matrix[row, i] = 0;
+                                mask = 0;
+                                i++;
+                                if (i >= col)
+                                {
+                                    break;
+                                }
+                            }
                         }
+                    }
+                }
 
+            }
+
+            if (comand == "left")
+            {
+                row = int.Parse(Console.ReadLine());
+                col = int.Parse(Console.ReadLine());
+
+                cheskBitOne = 0;
+                mask = 0;
+                bit = 0;
+                for (int i = 0; i <= col; i++)
+                {
+                    if (matrix[row, i] == 1 && i < n-1)
+                    {
+                        for (int j = 0; j <i; j++)
+                        {
+                            mask = 1 << j;
+                            cheskBitOne = matrix[row, j] & mask;
+                            bit = cheskBitOne >> j;
+                            if (bit == 0)
+                            {
+                                matrix[row, j] = 1;
+                                matrix[row, i] = 0;
+                                mask = 0;
+                                i++;
+                                if (i >= col)
+                                {
+                                    break;
+                                }
+                            }
+                        }
                     }
                 }
 

@@ -1,0 +1,5 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

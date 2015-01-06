@@ -1,0 +1,6 @@
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Tdd\Documents\GitHub\Telerik-Corse-Homework\C#Part1 2015\Homeworks\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
